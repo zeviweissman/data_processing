@@ -6,31 +6,6 @@ from toolz import pipe
 from app.data_models import TerrorAttack, AttackType, TargetType, AttackLocation, Group
 from pandas import Series
 
-def dict_to_terror_attack(attack_dict: dict):
-    return TerrorAttack(
-        date=date(attack_dict.get('year'), attack_dict.get('month'), attack_dict.get('day')),
-        attack_type=AttackType(
-            type=attack_dict.get('attack_type')
-        ),
-        target_type=TargetType(
-            type=attack_dict.get('target_type')
-        ),
-        group=Group(
-            name=attack_dict.get('group_name')
-        ),
-        location=AttackLocation(
-            country=attack_dict.get('country'),
-            region=attack_dict.get('region'),
-            province_or_state=attack_dict.get('province_or_state'),
-            city=attack_dict.get('city'),
-            lat=attack_dict.get('lat'),
-            lon=attack_dict.get('lon')
-        ),
-        total_wounded=attack_dict.get('total_wounded'),
-        deadly_score=attack_dict.get('deadly_score'),
-        total_killed=attack_dict.get('total_killed'),
-        total_perps=attack_dict.get('total_perps')
-    )
 
 def dict_to_list_of_dicts(dict_to_convert: dict) -> List[dict]:
     return [{key:value} for key, value in dict_to_convert.items()]

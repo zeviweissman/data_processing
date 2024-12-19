@@ -7,8 +7,9 @@ def total_damage_by_attack_type(df: DataFrame) -> Series:
     return df.where(df["deadly_score"] >= 0).groupby(["attack_type"])["deadly_score"].sum()
 
 
+
 def avg_damage_by_country(df: DataFrame) -> Series:
-    return df.where(df['deadly_score'] >= 0).groupby(["country"])["deadly_score"].mean()
+    return df.where(df['deadly_score'] >= 0).groupby(["country"])["deadly_score"].mean().round(3)
 
 
 def total_damage_by_group(df: DataFrame) -> Series:
