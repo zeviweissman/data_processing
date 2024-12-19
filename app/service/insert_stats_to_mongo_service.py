@@ -2,7 +2,7 @@ from toolz import pipe
 
 from app.pandas_.csv_repository import get_global_terrorism_as_df
 import app.pandas_.stats_service as stats_service
-import app.utils.convert_utils as convert_utils
+import app.utils.mongo_service_convert_utils as convert_utils
 import app.db.mongo.repository.active_groups_by_country_repository as active_groups_by_country_repository
 import app.db.mongo.repository.avg_damage_by_country_repository as avg_damage_by_country_repository
 import app.db.mongo.repository.total_damage_by_group_repository as total_damage_by_group_repository
