@@ -23,7 +23,8 @@ def insert_active_groups_by_country():
 def insert_avg_damage_by_country():
     avg_damage_by_country = pipe(
         stats_service.avg_damage_by_country(raw_data_df),
-    convert_utils.series_to_dict
+    convert_utils.series_to_dict,
+        convert_utils.parse_avg_damage_by_country_dicts
     )
     avg_damage_by_country_repository.insert_many(avg_damage_by_country)
 
@@ -31,7 +32,8 @@ def insert_avg_damage_by_country():
 def insert_total_damage_by_attack_type():
     total_damage_by_attack_type = pipe(
         stats_service.total_damage_by_attack_type(raw_data_df),
-            convert_utils.series_to_dict
+            convert_utils.series_to_dict,
+        convert_utils.parse_total_damage_by_attack_type_dicts
             )
     total_damage_by_attack_repository.insert_many(total_damage_by_attack_type)
 
@@ -39,7 +41,8 @@ def insert_total_damage_by_attack_type():
 def insert_total_damage_by_group():
     total_damage_by_group = pipe(
         stats_service.total_damage_by_group(raw_data_df),
-    convert_utils.series_to_dict
+    convert_utils.series_to_dict,
+        convert_utils.parse_total_damage_by_group_dicts
         )
     total_damage_by_group_repository.insert_many(total_damage_by_group)
 

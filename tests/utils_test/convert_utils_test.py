@@ -31,3 +31,33 @@ def test_parse_active_groups_by_country_dict():
 def test_parse_active_groups_by_country_dicts():
     res = convert_utils.parse_active_groups_by_country_dicts([{("Israel", "Terror group"):10}, {("Israel", "Hamas"):100}])
     assert res == [{"country": "Israel", "value": 10, "group": "Terror group"}, {"country": "Israel", "value": 100, "group": "Hamas"}]
+
+
+def test_parse_avg_damage_by_country_dict():
+    res = convert_utils.parse_avg_damage_by_country_dict({"Israel": 30})
+    assert res == {"country": "Israel", "value": 30}
+
+
+def test_parse_avg_damage_by_country_dicts():
+    res = convert_utils.parse_avg_damage_by_country_dicts([{"Israel": 50}, {"Lebanon": 21}])
+    assert res == [{"country": "Israel", "value": 50}, {"country": "Lebanon", "value": 21}]
+
+
+def test_parse_total_damage_by_attack_type_dict():
+    res = convert_utils.parse_total_damage_by_attack_type_dict({"Gun": 20})
+    assert res == {"type": "Gun", "value": 20}
+
+
+def test_parse_total_damage_by_attack_type_dicts():
+    res = convert_utils.parse_total_damage_by_attack_type_dicts([{"Gun": 20}, {"Knife":10}])
+    assert res == [{"type": "Gun", "value": 20}, {"type": "Knife", "value": 10}]
+
+
+def test_parse_total_damage_by_group_dict():
+    res = convert_utils.parse_total_damage_by_group_dict({"Hamas": 1000})
+    assert res == {"group": "Hamas", "value": 1000}
+
+
+def test_parse_total_damage_by_group_dicts():
+    res = convert_utils.parse_total_damage_by_group_dicts([{"Hamas": 1000}, {"ISIS": 500}])
+    assert res == [{"group": "Hamas", "value": 1000}, {"group": "ISIS", "value": 500}]
