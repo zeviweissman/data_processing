@@ -1,0 +1,1001 @@
+,year,month,day,country,region,province_or_state,city,lat,lon,attacktype1,target_type1,group_name,total_perps,weapon_type1,total_killed,total_wounded,deadly_score
+0,1970,7,2,Dominican Republic,Central America & Caribbean,unknown,Santo Domingo,18.456792,-69.951164,Assassination,Private Citizens & Property,MANO-D,-1,Unknown,1,0,2
+1,1970,0,0,Mexico,North America,Federal,Mexico city,19.371887,-99.086624,Hostage Taking (Kidnapping),Government (Diplomatic),23rd of September Communist League,7,Unknown,0,0,0
+2,1970,1,0,Philippines,Southeast Asia,Tarlac,Unknown,15.478598,120.599741,Assassination,Journalists & Media,Unknown,-1,Unknown,1,0,2
+3,1970,1,0,Greece,Western Europe,Attica,Athens,37.99749,23.762728,Bombing/Explosion,Government (Diplomatic),Unknown,-1,Explosives,-1,-1,-1
+4,1970,1,0,Japan,East Asia,Fukouka,Fukouka,33.580412,130.396361,Facility/Infrastructure Attack,Government (Diplomatic),Unknown,-1,Incendiary,-1,-1,-1
+5,1970,1,1,United States,North America,Illinois,Cairo,37.005105,-89.176269,Armed Assault,Police,Black Nationalists,-99,Firearms,0,0,0
+6,1970,1,2,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Assassination,Police,Tupamaros (Uruguay),3,Firearms,0,0,0
+7,1970,1,2,United States,North America,California,Oakland,37.791927,-122.225906,Bombing/Explosion,Utilities,Unknown,-99,Explosives,0,0,0
+8,1970,1,2,United States,North America,Wisconsin,Madison,43.076592,-89.412488,Facility/Infrastructure Attack,Military,New Year's Gang,1,Incendiary,0,0,0
+9,1970,1,3,United States,North America,Wisconsin,Madison,43.07295,-89.386694,Facility/Infrastructure Attack,Government (General),New Year's Gang,1,Incendiary,0,0,0
+10,1970,1,1,United States,North America,Wisconsin,Baraboo,43.4685,-89.744299,Bombing/Explosion,Military,"Weather Underground, Weathermen",-1,Explosives,0,0,0
+11,1970,1,6,United States,North America,Colorado,Denver,39.758968,-104.876305,Facility/Infrastructure Attack,Military,Left-Wing Militants,-99,Incendiary,0,0,0
+12,1970,1,8,Italy,Western Europe,Lazio,Rome,41.890961,12.490069,Hijacking,Airports & Aircraft,Unknown,1,Firearms,0,0,0
+13,1970,1,9,United States,North America,Michigan,Detroit,42.331685,-83.047924,Facility/Infrastructure Attack,Government (General),Left-Wing Militants,-99,Incendiary,0,0,0
+14,1970,1,9,United States,North America,Puerto Rico,Rio Piedras,18.386932,-66.061127,Facility/Infrastructure Attack,Business,Armed Commandos of Liberation,-99,Incendiary,0,0,0
+15,1970,1,10,East Germany (GDR),Eastern Europe,Berlin,Berlin,52.50153,13.401851,Bombing/Explosion,Government (General),Commune 1,-1,Explosives,-1,-1,-1
+16,1970,1,11,Ethiopia,Sub-Saharan Africa,Unknown,Unknown,0.0,0.0,Unknown,Military,Eritrean Liberation Front,1,Unknown,1,0,2
+17,1970,1,12,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Educational Institution,Black Nationalists,-99,Explosives,0,0,0
+18,1970,1,12,United States,North America,Puerto Rico,Rio Grande,18.379998,-65.830948,Bombing/Explosion,Business,Strikers,-99,Explosives,0,0,0
+19,1970,1,13,United States,North America,Washington,Seattle,47.610786,-122.331306,Facility/Infrastructure Attack,Business,Black Nationalists,-99,Incendiary,0,0,0
+20,1970,1,14,United States,North America,Illinois,Champaign,40.116748,-88.23927,Facility/Infrastructure Attack,Police,Black Nationalists,-99,Incendiary,0,1,1
+21,1970,1,15,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Armed Assault,Educational Institution,Tupamaros (Uruguay),5,Firearms,0,0,0
+22,1970,1,19,United States,North America,Washington,Seattle,47.610786,-122.331306,Bombing/Explosion,Educational Institution,Black Nationalists,3,Explosives,0,0,0
+23,1970,1,19,United States,North America,Washington,Seattle,47.610786,-122.331306,Bombing/Explosion,Military,Student Radicals,2,Explosives,0,0,0
+24,1970,1,19,United States,North America,New Jersey,Jersey City,40.717892,-74.067467,Facility/Infrastructure Attack,Violent Political Party,White extremists,-99,Incendiary,0,0,0
+25,1970,1,20,Guatemala,Central America & Caribbean,Guatemala,Guatemala City,14.622869,-90.529068,Assassination,Government (Diplomatic),Unknown,1,Unknown,1,0,2
+26,1970,1,21,Philippines,Southeast Asia,Metropolitan Manila,Quezon City,14.67428,121.057495,Bombing/Explosion,Government (Diplomatic),Unknown,-1,Explosives,0,0,0
+27,1970,1,22,Venezuela,South America,Caracas,Caracas,10.482834,-66.962128,Hostage Taking (Kidnapping),Business,Armed Forces of National Liberation- Venezuela (FALN),3,Unknown,0,0,0
+28,1970,1,22,United States,North America,Nebraska,South Sioux City,42.47031,-96.413949,Bombing/Explosion,Private Citizens & Property,Strikers,-99,Explosives,0,0,0
+29,1970,1,25,United States,North America,Mississippi,West Point,33.60651,-88.650419,Facility/Infrastructure Attack,Private Citizens & Property,White extremists,-99,Incendiary,0,0,0
+30,1970,1,25,United States,North America,New York,New York City,40.697132,-73.931351,Armed Assault,Police,Black Nationalists,-99,Firearms,0,2,2
+31,1970,1,26,United States,North America,Mississippi,West Point,33.60651,-88.650419,Bombing/Explosion,Government (General),Black Nationalists,-99,Explosives,0,0,0
+32,1970,1,26,United States,North America,New York,New York City,40.697132,-73.931351,Armed Assault,Police,Black Nationalists,-99,Firearms,0,0,0
+33,1970,1,27,United States,North America,Ohio,Norwalk,41.241996,-82.615241,Facility/Infrastructure Attack,Government (General),Left-Wing Militants,-99,Incendiary,0,0,0
+34,1970,1,28,East Germany (GDR),Eastern Europe,Berlin,Berlin,52.50153,13.401851,Facility/Infrastructure Attack,Police,Unknown,-1,Incendiary,-1,-1,-1
+35,1970,1,28,United States,North America,Washington,Seattle,47.610786,-122.331306,Bombing/Explosion,Religious Figures/Institutions,White extremists,-99,Explosives,0,0,0
+36,1970,1,30,United States,North America,Nebraska,South Sioux City,42.479999,-96.413046,Bombing/Explosion,Unknown,Strikers,-99,Explosives,0,0,0
+37,1970,1,30,United States,North America,Nebraska,South Sioux City,42.46634,-96.41405,Bombing/Explosion,Business,Strikers,-99,Explosives,0,0,0
+38,1970,1,30,United States,North America,Florida,Coral Gables,25.720851,-80.277857,Facility/Infrastructure Attack,Military,Student Radicals,-99,Incendiary,0,0,0
+39,1970,1,31,Philippines,Southeast Asia,Tarlac,Bamban,15.675051,120.331618,Unknown,Military,New People's Army (NPA),-1,Unknown,0,1,1
+40,1970,1,31,United States,North America,Colorado,Denver,39.758968,-104.876305,Bombing/Explosion,Police,Unknown,-99,Explosives,0,0,0
+41,1970,2,1,United States,North America,Oregon,Portland,45.511795,-122.675629,Facility/Infrastructure Attack,Government (General),Left-Wing Militants,1,Incendiary,0,0,0
+42,1970,2,1,United States,North America,Illinois,Cairo,37.005105,-89.176269,Armed Assault,Police,Black Nationalists,-99,Firearms,0,0,0
+43,1970,2,2,United States,North America,New York,New York City,40.697132,-73.931351,Facility/Infrastructure Attack,Business,Unknown,-99,Incendiary,0,0,0
+44,1970,2,3,United States,North America,New York,New York City,40.697132,-73.931351,Facility/Infrastructure Attack,Business,Unknown,-99,Incendiary,0,0,0
+45,1970,2,3,United States,North America,New York,New York City,40.697132,-73.931351,Facility/Infrastructure Attack,Business,Unknown,-99,Incendiary,0,0,0
+46,1970,2,4,United States,North America,Ohio,Akron,41.084195,-81.514059,Bombing/Explosion,Private Citizens & Property,Strikers,-99,Explosives,0,0,0
+47,1970,2,6,United States,North America,Colorado,Denver,39.758968,-104.876305,Bombing/Explosion,Transportation,Black Nationalists,3,Explosives,0,0,0
+48,1970,2,6,United States,North America,Washington,Seattle,47.610786,-122.331306,Bombing/Explosion,Government (General),White extremists,-99,Explosives,0,0,0
+49,1970,2,6,United States,North America,Washington,Seattle,47.610786,-122.331306,Bombing/Explosion,Religious Figures/Institutions,White extremists,-99,Explosives,0,0,0
+50,1970,2,6,United States,North America,Puerto Rico,Dorado,18.460791,-66.264884,Facility/Infrastructure Attack,Government (General),Armed Revolutionary Independence Movement (MIRA),-99,Incendiary,0,0,0
+51,1970,2,6,United States,North America,Puerto Rico,Rio Piedras,18.386932,-66.061127,Facility/Infrastructure Attack,Utilities,Armed Revolutionary Independence Movement (MIRA),-99,Incendiary,0,0,0
+52,1970,2,6,United States,North America,Puerto Rico,Carolina,18.441963,-66.026316,Facility/Infrastructure Attack,Business,Armed Revolutionary Independence Movement (MIRA),-99,Incendiary,0,0,0
+53,1970,2,6,United States,North America,Massachusetts,Boston,42.3505,-71.105399,Facility/Infrastructure Attack,Military,Student Radicals,-99,Incendiary,0,0,0
+54,1970,2,7,United States,North America,Wisconsin,Whitewater,42.838355,-88.743224,Facility/Infrastructure Attack,Educational Institution,Student Radicals,-99,Incendiary,0,0,0
+55,1970,2,8,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Business,Armed Revolutionary Independence Movement (MIRA),-99,Explosives,0,0,0
+56,1970,2,8,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Business,Armed Revolutionary Independence Movement (MIRA),-99,Explosives,0,0,0
+57,1970,2,9,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Business,Armed Revolutionary Independence Movement (MIRA),1,Explosives,0,0,0
+58,1970,2,9,United States,North America,Ohio,Batavia,39.07859,-84.179414,Bombing/Explosion,Private Citizens & Property,Strikers,-99,Explosives,0,0,0
+59,1970,2,10,West Germany (FRG),Western Europe,Bavaria,Munich,48.139126,11.580186,Armed Assault,Airports & Aircraft,Popular Front for the Liberation of Palestine (PFLP),3,Firearms,1,-1,-1
+60,1970,2,11,United States,North America,Michigan,Ypsilanti,42.263414,-83.665281,Facility/Infrastructure Attack,Educational Institution,Student Radicals,-99,Incendiary,0,0,0
+61,1970,2,13,United States,North America,California,Berkeley,37.874043,-122.280022,Bombing/Explosion,Police,Unknown,-1,Explosives,0,7,7
+62,1970,2,13,West Germany (FRG),Western Europe,Bavaria,Munich,48.139126,11.580186,Facility/Infrastructure Attack,Private Citizens & Property,Popular Front for the Liberation of Palestine (PFLP),-1,Incendiary,7,9,23
+63,1970,2,13,United States,North America,California,Berkeley,37.874043,-122.280022,Bombing/Explosion,Police,Black Nationalists,-99,Explosives,0,7,7
+64,1970,2,15,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Business,Left-Wing Militants,-99,Explosives,0,0,0
+65,1970,2,15,United States,North America,Oregon,Eugene,44.04483,-123.072606,Facility/Infrastructure Attack,Military,Student Radicals,-99,Incendiary,0,1,1
+66,1970,2,16,United States,North America,California,San Francisco,37.755363,-122.443352,Bombing/Explosion,Police,Unknown,-1,Explosives,1,0,2
+67,1970,2,16,United States,North America,California,Berkeley,37.874043,-122.280022,Bombing/Explosion,Business,Unknown,-1,Explosives,0,0,0
+68,1970,2,16,United States,North America,California,Berkeley,37.874043,-122.280022,Bombing/Explosion,Business,Unknown,-1,Explosives,0,0,0
+69,1970,2,16,United States,North America,California,San Francisco,37.755363,-122.443352,Armed Assault,Police,Left-Wing Militants,1,Firearms,0,0,0
+70,1970,2,17,United States,North America,California,Oakland,37.791927,-122.225906,Bombing/Explosion,Business,Unknown,-99,Explosives,0,0,0
+71,1970,2,17,United States,North America,Maryland,Buckeystown,39.334825,-77.431653,Bombing/Explosion,Utilities,Unknown,-99,Explosives,0,0,0
+72,1970,2,17,United States,North America,Louisiana,Covington,30.493919,-90.132512,Bombing/Explosion,Educational Institution,White extremists,-99,Explosives,0,0,0
+73,1970,2,17,United States,North America,Washington,Seattle,47.610786,-122.331306,Bombing/Explosion,Military,Student Radicals,-99,Explosives,0,0,0
+74,1970,2,18,United States,North America,Ohio,Cleveland,41.479561,-81.675461,Bombing/Explosion,Police,Black Nationalists,-99,Explosives,0,0,0
+75,1970,2,18,United States,North America,California,Vallejo,38.10083,-122.254954,Bombing/Explosion,Police,Black Nationalists,-99,Explosives,0,0,0
+76,1970,2,20,United States,North America,Connecticut,Hartford,41.763325,-72.674069,Facility/Infrastructure Attack,Government (General),Left-Wing Militants,-99,Incendiary,0,0,0
+77,1970,2,20,United States,North America,New York,New York City,40.697132,-73.931351,Facility/Infrastructure Attack,Educational Institution,Student Radicals,-99,Incendiary,0,0,0
+78,1970,2,20,United States,North America,Washington,Seattle,47.610786,-122.331306,Bombing/Explosion,Educational Institution,Student Radicals,-99,Explosives,0,0,0
+79,1970,2,21,West Germany (FRG),Western Europe,Hesse,Frankfurt,50.11797,8.644191,Bombing/Explosion,Airports & Aircraft,"Popular Front for the Liberation of Palestine, Gen Cmd (PFLP-GC)",4,Explosives,0,0,0
+80,1970,2,21,Switzerland,Western Europe,Zurich,Zurich,47.36865,8.539182,Bombing/Explosion,Airports & Aircraft,"Popular Front for the Liberation of Palestine, Gen Cmd (PFLP-GC)",-1,Explosives,47,0,94
+81,1970,2,21,United States,North America,New York,New York City,40.697132,-73.931351,Facility/Infrastructure Attack,Police,Left-Wing Militants,-99,Incendiary,0,0,0
+82,1970,2,21,United States,North America,New York,New York City,40.697132,-73.931351,Facility/Infrastructure Attack,Military,Left-Wing Militants,-99,Incendiary,0,0,0
+83,1970,2,21,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Private Citizens & Property,"Weather Underground, Weathermen",4,Explosives,0,0,0
+84,1970,2,21,United States,North America,Colorado,Denver,39.758968,-104.876305,Facility/Infrastructure Attack,Private Citizens & Property,Black Nationalists,-99,Incendiary,0,0,0
+85,1970,2,22,United States,North America,New York,Ithaca,42.455233,-76.475847,Facility/Infrastructure Attack,Educational Institution,White extremists,-99,Incendiary,0,0,0
+86,1970,2,22,United States,North America,Wisconsin,Prairie du Sac,43.287052,-89.724361,Bombing/Explosion,Utilities,New Year's Gang,1,Explosives,0,0,0
+87,1970,2,23,United States,North America,Nebraska,South Sioux City,42.47031,-96.413949,Bombing/Explosion,Utilities,Strikers,-99,Explosives,0,0,0
+88,1970,2,23,United States,North America,Nebraska,South Sioux City,42.47031,-96.413949,Bombing/Explosion,Utilities,Strikers,-99,Explosives,0,0,0
+89,1970,2,23,United States,North America,Nebraska,South Sioux City,42.47031,-96.413949,Bombing/Explosion,Utilities,Strikers,-99,Explosives,0,0,0
+90,1970,2,23,United States,North America,Nebraska,South Sioux City,42.47031,-96.413949,Bombing/Explosion,Utilities,Strikers,-99,Explosives,0,0,0
+91,1970,2,23,United States,North America,Arizona,Tucson,32.222232,-110.925752,Bombing/Explosion,Military,Left-Wing Militants,-99,Explosives,0,0,0
+92,1970,2,24,United States,North America,Colorado,Denver,39.758968,-104.876305,Bombing/Explosion,Private Citizens & Property,White extremists,-99,Explosives,0,0,0
+93,1970,2,24,United States,North America,Illinois,Champaign,40.101952,-88.227161,Facility/Infrastructure Attack,Military,Student Radicals,-99,Incendiary,0,0,0
+94,1970,2,27,United States,North America,Colorado,Boulder,40.007581,-105.265942,Bombing/Explosion,Educational Institution,Student Radicals,-99,Explosives,0,0,0
+95,1970,2,28,Jordan,Middle East & North Africa,Khalil,Hebron,31.530243,35.094162,Armed Assault,Tourists,Unknown,-1,Firearms,-1,-1,-1
+96,1970,3,0,Philippines,Southeast Asia,Metropolitian Manila,Manila,14.596051,120.978666,Bombing/Explosion,Government (Diplomatic),Unknown,-1,Explosives,0,0,0
+97,1970,3,1,Italy,Western Europe,Lazio,Rome,41.890961,12.490069,Bombing/Explosion,Airports & Aircraft,Eritrean Liberation Front,-1,Explosives,0,0,0
+98,1970,3,1,United States,North America,Colorado,Boulder,40.007581,-105.265942,Bombing/Explosion,Military,Student Radicals,-99,Explosives,0,0,0
+99,1970,3,1,United States,North America,Colorado,Colorado Springs,38.864281,-104.778412,Facility/Infrastructure Attack,Military,Left-Wing Militants,-99,Incendiary,0,0,0
+100,1970,3,1,United States,North America,Colorado,Boulder,40.007581,-105.265942,Facility/Infrastructure Attack,Police,Student Radicals,-99,Incendiary,0,0,0
+101,1970,3,1,United States,North America,Colorado,Boulder,40.014986,-105.270546,Bombing/Explosion,Police,Left-Wing Militants,-99,Explosives,0,0,0
+102,1970,3,2,United States,North America,Ohio,Cleveland,41.479561,-81.675461,Facility/Infrastructure Attack,Private Citizens & Property,Black Nationalists,-99,Incendiary,0,0,0
+103,1970,3,3,Spain,Western Europe,Unknown,Unknown,0.0,0.0,Hostage Taking (Kidnapping),Government (General),1st of May Group,3,Unknown,0,0,0
+104,1970,3,3,United States,North America,Colorado,Denver,39.758968,-104.876305,Bombing/Explosion,Private Citizens & Property,Left-Wing Militants,-99,Explosives,0,0,0
+105,1970,3,3,United States,North America,Washington,Seattle,47.610786,-122.331306,Bombing/Explosion,Government (General),Student Radicals,4,Explosives,0,0,0
+106,1970,3,4,United States,North America,California,Oakland,37.791927,-122.225906,Bombing/Explosion,Military,Left-Wing Militants,-99,Explosives,0,0,0
+107,1970,3,4,United States,North America,California,Martinez,38.019304,-122.134062,Bombing/Explosion,Transportation,Unknown,-99,Explosives,0,0,0
+108,1970,3,4,United States,North America,Colorado,Denver,39.758968,-104.876305,Bombing/Explosion,Private Citizens & Property,Left-Wing Militants,-99,Explosives,0,0,0
+109,1970,3,5,United States,North America,Washington,Seattle,47.610786,-122.331306,Bombing/Explosion,Government (General),Left-Wing Militants,-99,Explosives,0,0,0
+110,1970,3,5,United States,North America,Colorado,Denver,39.758968,-104.876305,Bombing/Explosion,Private Citizens & Property,Left-Wing Militants,-99,Explosives,0,0,0
+111,1970,3,5,United States,North America,Puerto Rico,San Juan,18.386932,-66.061127,Assassination,Military,Armed Commandos of Liberation,-99,Firearms,2,0,4
+112,1970,3,6,Guatemala,Central America & Caribbean,Guatemala,Guatemala City,14.622869,-90.529068,Hostage Taking (Kidnapping),Government (Diplomatic),Rebel Armed Forces of Guatemala (FAR),-1,Firearms,0,0,0
+113,1970,3,6,United States,North America,Michigan,Detroit,42.331685,-83.047924,Bombing/Explosion,Police,"Weather Underground, Weathermen",-99,Explosives,0,0,0
+114,1970,3,6,United States,North America,Michigan,Detroit,42.331685,-83.047924,Bombing/Explosion,Police,"Weather Underground, Weathermen",-99,Explosives,0,0,0
+115,1970,3,9,United States,North America,California,Berkeley,37.874043,-122.280022,Facility/Infrastructure Attack,Educational Institution,Unknown,-1,Incendiary,0,0,0
+116,1970,3,9,United States,North America,Alabama,Ashville,33.83651,-86.254749,Facility/Infrastructure Attack,Private Citizens & Property,Ku Klux Klan,-1,Chemical,0,0,0
+117,1970,3,9,United States,North America,Connecticut,Bridgeport,41.18188,-73.191269,Facility/Infrastructure Attack,Religious Figures/Institutions,White extremists,-99,Incendiary,0,0,0
+118,1970,3,9,United States,North America,New Mexico,Albuquerque,35.084319,-106.619781,Bombing/Explosion,Military,White extremists,-99,Explosives,0,0,0
+119,1970,3,9,United States,North America,Maryland,Bel Air,39.53894,-76.348479,Bombing/Explosion,Unknown,Black Nationalists,2,Explosives,2,0,4
+120,1970,3,10,West Germany (FRG),Western Europe,Bavaria,Munich,48.139126,11.580186,Bombing/Explosion,Government (General),Unknown,-1,Explosives,0,0,0
+121,1970,3,10,United States,North America,Maryland,Cambridge,38.563122,-76.078063,Bombing/Explosion,Government (General),Left-Wing Militants,1,Explosives,0,0,0
+122,1970,3,10,United States,North America,California,San Francisco,37.755363,-122.443352,Facility/Infrastructure Attack,Business,Student Radicals,-99,Incendiary,0,0,0
+123,1970,3,11,Brazil,South America,Sao Paulo,Sao Paulo,-23.550711,-46.633475,Hostage Taking (Kidnapping),Government (Diplomatic),Popular Revolutionary Vanguard (VPR),6,Unknown,0,0,0
+124,1970,3,11,United States,North America,Illinois,Champaign,40.102408,-88.227159,Facility/Infrastructure Attack,Military,Student Radicals,-99,Incendiary,0,0,0
+125,1970,3,12,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Business,Revolutionary Force 9,-1,Explosives,0,0,0
+126,1970,3,12,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Business,Revolutionary Force 9,-1,Explosives,0,0,0
+127,1970,3,12,United States,North America,Illinois,Chicago,41.842602,-87.681229,Bombing/Explosion,Police,Black Nationalists,-99,Explosives,0,0,0
+128,1970,3,12,United States,North America,Illinois,Chicago,41.842602,-87.681229,Bombing/Explosion,Police,Black Nationalists,-99,Explosives,0,0,0
+129,1970,3,12,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Business,Revolutionary Force 9,-99,Explosives,0,0,0
+130,1970,3,13,United States,North America,Wisconsin,Appleton,44.260288,-88.397455,Facility/Infrastructure Attack,Military,Student Radicals,-99,Incendiary,0,0,0
+131,1970,3,13,United States,North America,Wisconsin,Appleton,44.268598,-88.42844,Facility/Infrastructure Attack,Educational Institution,Student Radicals,-99,Incendiary,0,0,0
+132,1970,3,14,Ethiopia,Sub-Saharan Africa,Unknown,Unknown,0.0,0.0,Hostage Taking (Kidnapping),Journalists & Media,Eritrean Liberation Front,-1,Unknown,0,0,0
+133,1970,3,14,Egypt,Middle East & North Africa,Alexandria,Alexandria,31.198056,29.919167,Bombing/Explosion,Airports & Aircraft,Unknown,-1,Explosives,0,2,2
+134,1970,3,14,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Military,Left-Wing Militants,-99,Explosives,0,0,0
+135,1970,3,14,United States,North America,California,Long Beach,33.766725,-118.192399,Hijacking,Military,Left-Wing Militants,2,Firearms,0,0,0
+136,1970,3,15,United States,North America,Puerto Rico,San Juan,18.386932,-66.061127,Bombing/Explosion,Business,Puerto Rican Nationalists,-99,Explosives,0,0,0
+137,1970,3,15,United States,North America,Montana,Billings,45.783975,-108.505794,Bombing/Explosion,Police,Unknown,-99,Explosives,0,0,0
+138,1970,3,16,United States,North America,California,San Bernardino,34.105245,-117.294124,Facility/Infrastructure Attack,Government (General),White extremists,-99,Incendiary,0,1,1
+139,1970,3,17,United States,North America,California,Los Angeles,34.097866,-118.407379,Bombing/Explosion,Educational Institution,Chicano Liberation Front,-99,Explosives,0,0,0
+140,1970,3,18,United States,North America,Ohio,Lockland,39.226835,-84.453309,Bombing/Explosion,Utilities,Unknown,-99,Explosives,0,0,0
+141,1970,3,20,United States,North America,Oregon,Portland,45.511795,-122.675629,Bombing/Explosion,Military,White extremists,-99,Incendiary,0,0,0
+142,1970,3,20,United States,North America,Michigan,Detroit,42.331685,-83.047924,Assassination,Private Citizens & Property,White extremists,-99,Firearms,1,0,2
+143,1970,3,21,United States,North America,District of Columbia,Washington,38.908642,-77.015381,Bombing/Explosion,Government (General),Left-Wing Militants,-99,Explosives,0,0,0
+144,1970,3,21,United States,North America,New York,New York City,40.697132,-73.931351,Facility/Infrastructure Attack,Business,Puerto Rican Resistance Movement,-99,Incendiary,0,0,0
+145,1970,3,21,United States,North America,New York,New York City,40.697132,-73.931351,Facility/Infrastructure Attack,Business,Puerto Rican Resistance Movement,-99,Incendiary,0,1,1
+146,1970,3,22,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Business,Black Panthers,1,Explosives,0,0,0
+147,1970,3,22,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Business,Black Panthers,1,Explosives,0,0,0
+148,1970,3,22,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Business,Black Panthers,1,Explosives,0,17,17
+149,1970,3,23,United States,North America,Florida,Orlando,28.538235,-81.377389,Bombing/Explosion,Private Citizens & Property,Strikers,-99,Explosives,0,0,0
+150,1970,3,24,Philippines,Southeast Asia,Pampanga,Angeles,15.153002,120.591942,Unknown,Military,Unknown,-1,Unknown,1,0,2
+151,1970,3,24,Dominican Republic,Central America & Caribbean,National,Santo Domingo,18.456792,-69.951164,Hostage Taking (Kidnapping),Military,Dominican Popular Movement (MPD),5,Unknown,0,0,0
+152,1970,3,24,Argentina,South America,Corrientes,Ituzaingo,-27.583246,-56.683334,Hostage Taking (Kidnapping),Government (Diplomatic),Argentine Liberation Front (FAL),-1,Unknown,0,0,0
+153,1970,3,24,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Business,Unknown,-99,Explosives,0,0,0
+154,1970,3,24,United States,North America,Ohio,Cleveland,41.479561,-81.675461,Bombing/Explosion,Private Citizens & Property,White extremists,-99,Explosives,0,0,0
+155,1970,3,24,United States,North America,California,Richmond,37.93781,-122.342709,Bombing/Explosion,Police,Black Nationalists,-99,Explosives,0,0,0
+156,1970,3,27,United States,North America,California,San Francisco,37.755363,-122.443352,Bombing/Explosion,Police,Black Nationalists,-99,Explosives,0,0,0
+157,1970,3,29,Argentina,South America,Buenos Aires,Buenos Aires,-34.61768,-58.444435,Hostage Taking (Kidnapping),Government (Diplomatic),Argentine National Organization Movement (MANO),4,Unknown,0,0,0
+158,1970,3,29,Lebanon,Middle East & North Africa,Beirut,Beirut,33.888523,35.503513,Bombing/Explosion,Government (Diplomatic),Popular Front for the Liberation of Palestine (PFLP),-1,Explosives,0,0,0
+159,1970,3,30,United States,North America,Illinois,Biggsville,40.85122,-90.864369,Facility/Infrastructure Attack,Government (General),Left-Wing Militants,-99,Incendiary,0,0,0
+160,1970,3,30,United States,North America,Georgia,Fort Benning,32.3575,-84.95623,Facility/Infrastructure Attack,Military,Left-Wing Militants,1,Incendiary,0,0,0
+161,1970,3,31,Guatemala,Central America & Caribbean,Guatemala,Guatemala City,14.622869,-90.529068,Hostage Taking (Kidnapping),Government (Diplomatic),Rebel Armed Forces of Guatemala (FAR),-1,Unknown,1,0,2
+162,1970,3,31,Japan,East Asia,unknown,Fukouka,33.580412,130.396361,Hijacking,Airports & Aircraft,Japanese Red Army (JRA),-1,Explosives,0,0,0
+163,1970,3,31,United States,North America,District of Columbia,Washington,38.908642,-77.015381,Bombing/Explosion,Government (General),Left-Wing Militants,-99,Explosives,0,0,0
+164,1970,3,31,United States,North America,Washington,Seattle,47.610786,-122.331306,Bombing/Explosion,Educational Institution,Student Radicals,-99,Explosives,0,0,0
+165,1970,4,0,Ethiopia,Sub-Saharan Africa,Unknown,Unknown,0.0,0.0,Hostage Taking (Kidnapping),Government (Diplomatic),Eritrean Liberation Front,-1,Unknown,0,0,0
+166,1970,4,1,United States,North America,Michigan,East Lansing,42.7375,-84.483779,Bombing/Explosion,Educational Institution,Student Radicals,-99,Explosives,0,0,0
+167,1970,4,1,United States,North America,New York,Ithaca,42.455233,-76.475847,Facility/Infrastructure Attack,Educational Institution,White extremists,-99,Incendiary,0,0,0
+168,1970,4,1,United States,North America,Texas,Houston,29.813822,-95.365295,Facility/Infrastructure Attack,Military,Student Radicals,-99,Incendiary,0,0,0
+169,1970,4,2,Philippines,Southeast Asia,Pampanga,Mabalacat City,15.185916,120.54187,Unknown,Military,New People's Army (NPA),-1,Unknown,2,0,4
+170,1970,4,2,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Business,Left-Wing Militants,-99,Explosives,0,0,0
+171,1970,4,3,Ireland,Western Europe,Dublin,Dublin,53.361675,-6.245485,Armed Assault,Business,Saor Eire (Irish Republican Group),-1,Firearms,1,-1,-1
+172,1970,4,4,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Business,Left-Wing Militants,-99,Explosives,0,0,0
+173,1970,4,4,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Private Citizens & Property,Left-Wing Militants,-99,Explosives,0,0,0
+174,1970,4,4,United States,North America,Washington,Pullman,46.731958,-117.162603,Facility/Infrastructure Attack,Educational Institution,Student Radicals,-99,Incendiary,0,0,0
+175,1970,4,5,Brazil,South America,Rio Grande do Sul,Porto Alegre,-30.034108,-51.217839,Hostage Taking (Kidnapping),Government (Diplomatic),Popular Revolutionary Vanguard (VPR),-1,Unknown,0,1,1
+176,1970,4,5,Argentina,South America,Buenos Aires,Buenos Aires,-34.61768,-58.444435,Armed Assault,Military,Argentine Liberation Front (FAL),-1,Firearms,-1,-1,-1
+177,1970,4,5,United States,North America,California,Trona,35.76625,-117.370674,Bombing/Explosion,Utilities,Strikers,-99,Explosives,0,0,0
+178,1970,4,5,United States,North America,California,Trona,35.76625,-117.370674,Facility/Infrastructure Attack,Business,Strikers,-99,Incendiary,0,0,0
+179,1970,4,5,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,NGO,Unknown,-99,Explosives,0,0,0
+180,1970,4,5,United States,North America,Texas,Houston,29.813822,-95.365295,Facility/Infrastructure Attack,Educational Institution,Student Radicals,-99,Incendiary,0,0,0
+181,1970,4,8,United States,North America,Kansas,Lawrence,38.973065,-95.236534,Bombing/Explosion,Business,Unknown,-99,Explosives,0,0,0
+182,1970,4,8,United States,North America,Kansas,Baxter Springs,37.023676,-94.735504,Bombing/Explosion,Private Citizens & Property,Strikers,-99,Explosives,0,0,0
+183,1970,4,8,United States,North America,California,Los Angeles,34.097866,-118.407379,Facility/Infrastructure Attack,Educational Institution,Chicano Liberation Front,-99,Incendiary,0,0,0
+184,1970,4,9,United States,North America,Illinois,East St. Louis,38.624421,-90.150603,Bombing/Explosion,Business,Unknown,-99,Explosives,0,0,0
+185,1970,4,11,United States,North America,California,San Diego,32.715695,-117.161719,Bombing/Explosion,Military,Left-Wing Militants,-99,Explosives,0,0,0
+186,1970,4,11,United States,North America,New York,Ithaca,42.455233,-76.475847,Facility/Infrastructure Attack,Educational Institution,Student Radicals,2,Incendiary,0,0,0
+187,1970,4,11,United States,North America,Texas,Freeport,28.949564,-95.344371,Facility/Infrastructure Attack,Business,Unknown,-99,Incendiary,0,5,5
+188,1970,4,13,United States,North America,California,Berkeley,37.874043,-122.280022,Bombing/Explosion,Utilities,New World Liberation Front (NWLF),-1,Explosives,0,0,0
+189,1970,4,13,United States,North America,Missouri,Kansas City,39.176086,-94.574127,Bombing/Explosion,Educational Institution,Unknown,-99,Explosives,0,0,0
+190,1970,4,13,United States,North America,Missouri,Kansas City,39.176086,-94.574127,Bombing/Explosion,Religious Figures/Institutions,Unknown,-99,Explosives,0,0,0
+191,1970,4,13,United States,North America,Missouri,Kansas City,39.176086,-94.574127,Bombing/Explosion,Police,Unknown,-99,Explosives,0,0,0
+192,1970,4,14,United States,North America,California,Trona,35.76625,-117.370674,Bombing/Explosion,Business,Strikers,-99,Explosives,0,0,0
+193,1970,4,14,United States,North America,California,Long Beach,33.783824,-118.11409,Bombing/Explosion,Educational Institution,Student Radicals,-99,Explosives,0,0,0
+194,1970,4,14,United States,North America,California,Los Angeles,34.097866,-118.407379,Bombing/Explosion,Business,Unknown,-99,Explosives,0,0,0
+195,1970,4,15,Jordan,Middle East & North Africa,Amman,Amman,31.950001,35.933331,Bombing/Explosion,Government (Diplomatic),Popular Front for the Liberation of Palestine (PFLP),-1,Explosives,0,0,0
+196,1970,4,15,United States,North America,California,Los Angeles,34.097866,-118.407379,Facility/Infrastructure Attack,Private Citizens & Property,Cuban Exiles,4,Incendiary,0,0,0
+197,1970,4,15,United States,North America,California,Los Angeles,34.097866,-118.407379,Facility/Infrastructure Attack,Educational Institution,Chicano Liberation Front,-99,Incendiary,0,0,0
+198,1970,4,15,United States,North America,California,Los Angeles,34.097866,-118.407379,Facility/Infrastructure Attack,Educational Institution,Chicano Liberation Front,-99,Incendiary,0,0,0
+199,1970,4,16,United States,North America,Missouri,Kansas City,39.176086,-94.574127,Bombing/Explosion,Business,Unknown,-99,Explosives,0,0,0
+200,1970,4,16,United States,North America,Missouri,Kansas City,39.176086,-94.574127,Bombing/Explosion,Private Citizens & Property,Unknown,-99,Explosives,0,0,0
+201,1970,4,16,United States,North America,Missouri,Kansas City,39.176086,-94.574127,Bombing/Explosion,Private Citizens & Property,Unknown,-99,Explosives,0,0,0
+202,1970,4,16,United States,North America,California,Trona,35.76625,-117.370674,Bombing/Explosion,Business,Strikers,-99,Explosives,0,0,0
+203,1970,4,17,United States,North America,California,Oakland,37.791927,-122.225906,Armed Assault,Police,Black Panthers,-99,Firearms,0,2,2
+204,1970,4,19,United States,North America,Washington,Seattle,47.610786,-122.331306,Bombing/Explosion,Religious Figures/Institutions,White extremists,-99,Explosives,0,0,0
+205,1970,4,19,United States,North America,Washington,Seattle,47.610786,-122.331306,Bombing/Explosion,Business,White extremists,-99,Explosives,0,0,0
+206,1970,4,19,United States,North America,Washington,Seattle,47.610786,-122.331306,Bombing/Explosion,Business,White extremists,-99,Explosives,0,0,0
+207,1970,4,19,United States,North America,Washington,Seattle,47.610786,-122.331306,Bombing/Explosion,Government (General),White extremists,-99,Explosives,0,0,0
+208,1970,4,19,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Police,Black Nationalists,-99,Explosives,0,3,3
+209,1970,4,20,United States,North America,Kansas,Lawrence,38.954344,-95.255796,Facility/Infrastructure Attack,Educational Institution,Student Radicals,-99,Incendiary,0,3,3
+210,1970,4,21,Philippines,Southeast Asia,Unknown,Cauayan,0.0,0.0,Bombing/Explosion,Airports & Aircraft,Unknown,-1,Explosives,36,0,72
+211,1970,4,21,United States,North America,California,Los Angeles,34.097866,-118.407379,Facility/Infrastructure Attack,Business,Left-Wing Militants,3,Incendiary,0,0,0
+212,1970,4,22,United States,North America,California,Trona,35.76625,-117.370674,Bombing/Explosion,Business,Strikers,-99,Explosives,0,0,0
+213,1970,4,22,United States,North America,California,Berkeley,37.874043,-122.280022,Facility/Infrastructure Attack,Educational Institution,Student Radicals,-99,Incendiary,0,0,0
+214,1970,4,22,United States,North America,California,Berkeley,37.874043,-122.280022,Facility/Infrastructure Attack,Educational Institution,Student Radicals,-99,Incendiary,0,0,0
+215,1970,4,22,United States,North America,Wisconsin,Milwaukee,43.064388,-87.966202,Facility/Infrastructure Attack,Government (General),Student Radicals,-99,Incendiary,0,0,0
+216,1970,4,22,United States,North America,Illinois,Champaign,40.102408,-88.227159,Facility/Infrastructure Attack,Police,Student Radicals,2,Incendiary,0,0,0
+217,1970,4,22,United States,North America,California,Redlands,34.062685,-117.163181,Facility/Infrastructure Attack,Educational Institution,Left-Wing Militants,-99,Incendiary,0,0,0
+218,1970,4,23,United States,North America,Puerto Rico,Aguada,18.379626,-67.188421,Bombing/Explosion,Military,Armed Commandos of Liberation,-99,Explosives,0,0,0
+219,1970,4,23,United States,North America,Puerto Rico,Aguada,18.379626,-67.188421,Bombing/Explosion,Telecommunication,Armed Commandos of Liberation,-99,Explosives,0,0,0
+220,1970,4,23,United States,North America,Puerto Rico,Aguada,18.379626,-67.188421,Bombing/Explosion,Telecommunication,Armed Commandos of Liberation,-99,Explosives,0,0,0
+221,1970,4,23,United States,North America,Puerto Rico,Aguada,18.379626,-67.188421,Bombing/Explosion,Police,Armed Commandos of Liberation,-99,Explosives,0,0,0
+222,1970,4,24,United States,North America,California,Palo Alto,37.424305,-122.143913,Facility/Infrastructure Attack,Educational Institution,Student Radicals,-99,Incendiary,0,0,0
+223,1970,4,24,United States,North America,Maryland,Baltimore,39.308342,-76.616104,Armed Assault,Police,Black Panthers,3,Firearms,1,1,3
+224,1970,4,24,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Military,Left-Wing Militants,-99,Explosives,0,0,0
+225,1970,4,24,United States,North America,New York,New York City,40.697132,-73.931351,Assassination,Government (Diplomatic),The World United Formosans for Independence (WUFI),2,Firearms,0,0,0
+226,1970,4,25,Turkey,Middle East & North Africa,Istanbul,Istanbul,41.106178,28.689863,Bombing/Explosion,Airports & Aircraft,Palestinians,-1,Explosives,0,0,0
+227,1970,4,25,United States,North America,Pennsylvania,Philadelphia,40.008171,-75.13549,Facility/Infrastructure Attack,Educational Institution,Left-Wing Militants,1,Incendiary,0,0,0
+228,1970,4,25,United States,North America,Michigan,East Lansing,42.7375,-84.483779,Bombing/Explosion,Business,Left-Wing Militants,-99,Explosives,0,0,0
+229,1970,4,25,United States,North America,Michigan,East Lansing,42.7375,-84.483779,Bombing/Explosion,Business,Left-Wing Militants,-99,Explosives,0,0,0
+230,1970,4,25,United States,North America,Michigan,East Lansing,42.7375,-84.483779,Bombing/Explosion,Business,Left-Wing Militants,-99,Explosives,0,0,0
+231,1970,4,26,United States,North America,Louisiana,Baton Rouge,30.443335,-91.186994,Bombing/Explosion,Government (General),Black Nationalists,-1,Explosives,0,0,0
+232,1970,4,26,United States,North America,Louisiana,Baton Rouge,30.443335,-91.186994,Bombing/Explosion,Food or Water Supply,Black Nationalists,-99,Explosives,0,0,0
+233,1970,4,26,United States,North America,Minnesota,Robbinsdale,45.031807,-93.336547,Bombing/Explosion,Government (General),Left-Wing Militants,-99,Explosives,0,0,0
+234,1970,4,27,United States,North America,Iowa,Iowa City,41.657825,-91.526534,Bombing/Explosion,Business,Black Nationalists,-99,Explosives,0,2,2
+235,1970,4,27,United States,North America,Connecticut,New Haven,41.312065,-72.928288,Facility/Infrastructure Attack,Educational Institution,Student Radicals,-99,Incendiary,0,0,0
+236,1970,4,27,United States,North America,Illinois,Evanston,42.056459,-87.675267,Facility/Infrastructure Attack,Educational Institution,Student Radicals,-99,Incendiary,0,0,0
+237,1970,4,27,United States,North America,California,Fullerton,33.882923,-117.929104,Bombing/Explosion,Educational Institution,Student Radicals,-99,Explosives,0,0,0
+238,1970,4,27,United States,North America,Iowa,Ames,42.025345,-93.620199,Facility/Infrastructure Attack,Private Citizens & Property,Left-Wing Militants,-99,Incendiary,0,0,0
+239,1970,4,27,United States,North America,Missouri,St. Charles,38.788097,-90.497479,Bombing/Explosion,Private Citizens & Property,Unknown,-99,Explosives,0,0,0
+240,1970,4,28,West Germany (FRG),Western Europe,Berlin,West Berlin,52.50153,13.401851,Facility/Infrastructure Attack,Business,Extraparliamentary Opposition (APO),-1,Incendiary,0,0,0
+241,1970,4,28,East Germany (GDR),Eastern Europe,Berlin,Berlin,52.50153,13.401851,Facility/Infrastructure Attack,Government (General),Unknown,-1,Incendiary,-1,-1,-1
+242,1970,4,29,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Police,Black Nationalists,-99,Explosives,0,0,0
+243,1970,4,30,United States,North America,Louisiana,Baton Rouge,30.443335,-91.186994,Bombing/Explosion,Business,Black Nationalists,-99,Explosives,0,0,0
+244,1970,5,0,United States,North America,Massachusetts,Boston,42.290156,-71.04897,Facility/Infrastructure Attack,Religious Figures/Institutions,Black Nationalists,-99,Incendiary,0,0,0
+245,1970,5,0,United States,North America,Puerto Rico,Rio Piedras,18.386932,-66.061127,Bombing/Explosion,Business,Puerto Rican Nationalists,-99,Explosives,0,1,1
+246,1970,5,1,United States,North America,New York,New York City,40.697132,-73.931351,Facility/Infrastructure Attack,Military,Left-Wing Militants,4,Incendiary,0,0,0
+247,1970,5,1,United States,North America,Indiana,Greencastle,39.640397,-86.861622,Bombing/Explosion,Military,Student Radicals,-99,Explosives,0,0,0
+248,1970,5,1,United States,North America,Connecticut,New Haven,41.316324,-72.922343,Bombing/Explosion,Educational Institution,Student Radicals,-99,Explosives,0,2,2
+249,1970,5,1,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Business,Armed Revolutionary Independence Movement (MIRA),-99,Explosives,0,10,10
+250,1970,5,1,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Business,Armed Revolutionary Independence Movement (MIRA),-99,Explosives,0,1,1
+251,1970,5,1,United States,North America,Illinois,Champaign,40.1142,-88.243499,Facility/Infrastructure Attack,Business,Revolutionary Force 26,-99,Incendiary,0,0,0
+252,1970,5,1,United States,North America,Illinois,Champaign,40.1142,-88.243499,Facility/Infrastructure Attack,Business,Revolutionary Force 26,-99,Incendiary,0,0,0
+253,1970,5,4,Paraguay,South America,Asuncion,Asuncion,-25.282773,-57.63561,Assassination,Government (Diplomatic),Palestinians,2,Firearms,1,1,3
+254,1970,5,4,United States,North America,Maryland,Jennings,39.645039,-79.183128,Facility/Infrastructure Attack,Government (General),Strikers,-99,Incendiary,0,0,0
+255,1970,5,4,United States,North America,North Carolina,Chapel Hill,35.904912,-79.046913,Bombing/Explosion,Military,Student Radicals,-99,Explosives,0,0,0
+256,1970,5,4,United States,North America,Oklahoma,Norman,35.22076,-97.446599,Facility/Infrastructure Attack,Government (General),Left-Wing Militants,-99,Incendiary,0,0,0
+257,1970,5,4,United States,North America,Missouri,Maryville,40.347457,-94.872909,Facility/Infrastructure Attack,Military,Left-Wing Militants,-99,Incendiary,0,0,0
+258,1970,5,5,East Germany (GDR),Eastern Europe,Berlin,Berlin,52.50153,13.401851,Facility/Infrastructure Attack,Government (Diplomatic),Extraparliamentary Opposition (APO),-1,Incendiary,0,0,0
+259,1970,5,5,United States,North America,Idaho,Lewiston,46.404973,-117.009341,Facility/Infrastructure Attack,Military,Left-Wing Militants,1,Incendiary,0,0,0
+260,1970,5,5,United States,North America,Florida,Coral Gables,25.720851,-80.277857,Bombing/Explosion,Educational Institution,Black Afro Militant Movement,-99,Explosives,0,0,0
+261,1970,5,5,United States,North America,Florida,Orlando,28.538235,-81.377389,Facility/Infrastructure Attack,Government (General),Left-Wing Militants,-99,Incendiary,0,0,0
+262,1970,5,5,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Business,Unknown,-99,Explosives,0,2,2
+263,1970,5,6,United States,North America,California,Oakland,37.791927,-122.225906,Facility/Infrastructure Attack,Government (General),Left-Wing Militants,-99,Incendiary,0,0,0
+264,1970,5,6,United States,North America,Washington,Longview,46.143582,-122.925645,Bombing/Explosion,Military,Left-Wing Militants,-99,Explosives,0,0,0
+265,1970,5,6,United States,North America,Pennsylvania,Reading,40.336585,-75.927843,Facility/Infrastructure Attack,Military,Left-Wing Militants,-99,Incendiary,0,0,0
+266,1970,5,6,United States,North America,Oregon,Portland,45.511795,-122.675629,Facility/Infrastructure Attack,Government (General),Left-Wing Militants,-99,Incendiary,0,0,0
+267,1970,5,6,United States,North America,California,San Pedro,33.73787,-118.284664,Facility/Infrastructure Attack,Military,Left-Wing Militants,2,Incendiary,0,0,0
+268,1970,5,6,United States,North America,Oregon,Portland,45.511795,-122.675629,Facility/Infrastructure Attack,Government (General),Left-Wing Militants,-99,Incendiary,0,0,0
+269,1970,5,6,United States,North America,Massachusetts,Boston,42.301631,-71.067605,Facility/Infrastructure Attack,Religious Figures/Institutions,Black Nationalists,-99,Incendiary,0,0,0
+270,1970,5,7,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Business,Unknown,-99,Explosives,0,0,0
+271,1970,5,8,United States,North America,Connecticut,New London,41.356445,-72.096469,Facility/Infrastructure Attack,Military,Left-Wing Militants,-99,Incendiary,0,0,0
+272,1970,5,9,United States,North America,New York,New York City,40.818985,-73.595724,Facility/Infrastructure Attack,Educational Institution,Stop the War Coalition,-99,Incendiary,0,12,12
+273,1970,5,9,United States,North America,California,Los Angeles,34.097866,-118.407379,Bombing/Explosion,Government (General),Left-Wing Militants,-99,Explosives,0,0,0
+274,1970,5,9,United States,North America,California,Sacramento,38.551295,-121.471066,Armed Assault,Police,Black Nationalists,-99,Firearms,1,0,2
+275,1970,5,10,East Germany (GDR),Eastern Europe,Berlin,Berlin,52.50153,13.401851,Facility/Infrastructure Attack,Business,Extraparliamentary Opposition (APO),-1,Incendiary,0,0,0
+276,1970,5,10,United States,North America,District of Columbia,Washington,38.908642,-77.015381,Bombing/Explosion,NGO,"Weather Underground, Weathermen",-1,Explosives,0,0,0
+277,1970,5,12,Switzerland,Western Europe,Geneva,Geneva,46.198392,6.142296,Bombing/Explosion,Airports & Aircraft,1st of May Group,-1,Explosives,-1,-1,-1
+278,1970,5,12,United States,North America,Texas,Houston,29.813822,-95.365295,Bombing/Explosion,Telecommunication,Ku Klux Klan,4,Explosives,0,0,0
+279,1970,5,12,United States,North America,Michigan,Detroit,42.331685,-83.047924,Facility/Infrastructure Attack,Government (General),Left-Wing Militants,-99,Incendiary,0,0,0
+280,1970,5,13,United States,North America,Iowa,Des Moines,41.579662,-93.621506,Bombing/Explosion,Police,Black Panthers,-99,Explosives,0,2,2
+281,1970,5,13,United States,North America,Utah,Salt Lake City,40.759505,-111.888229,Bombing/Explosion,Military,Left-Wing Militants,-99,Explosives,0,0,0
+282,1970,5,13,United States,North America,North Carolina,Oxford,36.312,-78.5882,Facility/Infrastructure Attack,Private Citizens & Property,Black Nationalists,-99,Incendiary,0,0,0
+283,1970,5,13,United States,North America,Florida,Miami,25.774591,-80.214195,Facility/Infrastructure Attack,Business,Black Afro Militant Movement,6,Incendiary,0,0,0
+284,1970,5,14,United States,North America,Massachusetts,Melrose,42.45717,-71.064049,Facility/Infrastructure Attack,Military,Left-Wing Militants,-99,Incendiary,0,0,0
+285,1970,5,14,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Educational Institution,Student Radicals,-99,Explosives,0,0,0
+286,1970,5,14,United States,North America,California,Long Beach,33.783824,-118.11409,Bombing/Explosion,Educational Institution,Student Radicals,-99,Explosives,0,0,0
+287,1970,5,14,United States,North America,North Carolina,Oxford,36.312,-78.5882,Facility/Infrastructure Attack,Business,Black Nationalists,-99,Incendiary,0,0,0
+288,1970,5,15,West Germany (FRG),Western Europe,Berlin,West Berlin,52.50153,13.401851,Facility/Infrastructure Attack,Business,Unknown,-1,Incendiary,-1,-1,-1
+289,1970,5,15,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Assassination,Military,Tupamaros (Uruguay),4,Firearms,0,0,0
+290,1970,5,15,West Germany (FRG),Western Europe,Berlin,West Berlin,52.50153,13.401851,Armed Assault,Business,Unknown,-1,Firearms,-1,-1,-1
+291,1970,5,15,United States,North America,Washington,Seattle,47.610786,-122.331306,Bombing/Explosion,Business,Black Nationalists,1,Explosives,1,0,2
+292,1970,5,16,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Military,Cuban Action,3,Explosives,0,0,0
+293,1970,5,19,United States,North America,Missouri,Afton,38.550245,-90.332723,Facility/Infrastructure Attack,Government (General),Left-Wing Militants,-99,Incendiary,0,0,0
+294,1970,5,20,United States,North America,Florida,Quincy,30.588141,-84.580929,Bombing/Explosion,Utilities,Unknown,-99,Explosives,0,0,0
+295,1970,5,20,United States,North America,Pennsylvania,Carlisle,40.20119,-77.189169,Facility/Infrastructure Attack,Government (General),Left-Wing Militants,-99,Incendiary,0,0,0
+296,1970,5,20,United States,North America,Florida,Miami,25.774591,-80.214195,Facility/Infrastructure Attack,Educational Institution,Black Afro Militant Movement,5,Incendiary,0,0,0
+297,1970,5,21,United States,North America,California,Trona,35.76625,-117.370674,Bombing/Explosion,Private Citizens & Property,Strikers,-99,Explosives,0,0,0
+298,1970,5,22,United States,North America,New York,New York City,40.697132,-73.931351,Unarmed Assault,Terrorists/Non-State Militia,Jewish Defense League (JDL),6,Melee,0,3,3
+299,1970,5,22,United States,North America,Minnesota,St. Paul,44.946604,-93.136446,Armed Assault,Police,Black Nationalists,2,Firearms,1,0,2
+300,1970,5,22,United States,North America,Iowa,Ames,42.025345,-93.620199,Bombing/Explosion,Police,Black Panthers,-99,Explosives,0,10,10
+301,1970,5,25,United States,North America,North Carolina,Oxford,36.312,-78.5882,Facility/Infrastructure Attack,Business,Black Nationalists,-99,Incendiary,0,0,0
+302,1970,5,26,United States,North America,North Carolina,Oxford,36.312,-78.5882,Facility/Infrastructure Attack,Business,Black Nationalists,-99,Incendiary,0,0,0
+303,1970,5,26,United States,North America,North Carolina,Oxford,36.312,-78.5882,Facility/Infrastructure Attack,Business,Black Nationalists,-99,Incendiary,0,0,0
+304,1970,5,27,United States,North America,California,Los Angeles,34.097866,-118.407379,Bombing/Explosion,Government (General),Left-Wing Militants,-99,Explosives,0,0,0
+305,1970,5,27,United States,North America,Massachusetts,Boston,42.301631,-71.067605,Facility/Infrastructure Attack,Religious Figures/Institutions,Black Nationalists,-99,Incendiary,0,0,0
+306,1970,5,27,United States,North America,Massachusetts,Boston,42.301631,-71.067605,Facility/Infrastructure Attack,Religious Figures/Institutions,Black Nationalists,-99,Incendiary,0,0,0
+307,1970,5,28,United States,North America,California,Sacramento,38.579065,-121.491014,Armed Assault,Police,Black Panthers,6,Firearms,1,0,2
+308,1970,5,28,United States,North America,Arizona,Phoenix,33.44826,-112.075774,Bombing/Explosion,Government (General),Left-Wing Militants,-99,Explosives,0,0,0
+309,1970,5,28,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Educational Institution,Student Radicals,-99,Explosives,0,0,0
+310,1970,5,28,United States,North America,California,Fullerton,33.882923,-117.929104,Facility/Infrastructure Attack,Educational Institution,Right-wing extremists,-99,Incendiary,0,0,0
+311,1970,5,29,Argentina,South America,Buenos Aires,Buenos Aires,-34.61768,-58.444435,Hostage Taking (Kidnapping),Government (General),Montoneros (Argentina),-1,Unknown,1,0,2
+312,1970,5,29,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Armed Assault,Military,Tupamaros (Uruguay),42,Firearms,0,0,0
+313,1970,5,29,United States,North America,California,Oakland,37.791927,-122.225906,Bombing/Explosion,Private Citizens & Property,Black Nationalists,-99,Explosives,0,0,0
+314,1970,5,29,United States,North America,California,San Diego,32.715695,-117.161719,Facility/Infrastructure Attack,Military,Left-Wing Militants,1,Sabotage Equipment,0,0,0
+315,1970,5,30,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Business,Left-Wing Militants,-99,Explosives,0,0,0
+316,1970,6,1,Argentina,South America,Unknown,Unknown,0.0,0.0,Assassination,Government (General),Montoneros (Argentina),4,Firearms,1,0,2
+317,1970,6,2,Philippines,Southeast Asia,Capiz,Roxas,11.586558,122.753716,Bombing/Explosion,Airports & Aircraft,Unknown,-1,Explosives,1,12,14
+318,1970,6,2,United States,North America,Louisiana,Baton Rouge,30.443335,-91.186994,Bombing/Explosion,Utilities,Unknown,-99,Explosives,0,0,0
+319,1970,6,2,United States,North America,Illinois,Joliet,41.524935,-88.084594,Assassination,Private Citizens & Property,Unknown,-99,Explosives,0,1,1
+320,1970,6,3,United States,North America,Oregon,Portland,45.511795,-122.675629,Facility/Infrastructure Attack,Government (General),Left-Wing Militants,-99,Incendiary,0,0,0
+321,1970,6,4,United States,North America,California,Oakland,37.791927,-122.225906,Bombing/Explosion,Police,Black Nationalists,-99,Explosives,0,0,0
+322,1970,6,5,United States,North America,California,Los Angeles,34.097866,-118.407379,Bombing/Explosion,Military,Student Radicals,-99,Explosives,0,0,0
+323,1970,6,6,Philippines,Southeast Asia,Metropolitan Manila,Quezon City,14.67428,121.057495,Bombing/Explosion,Government (Diplomatic),Kabataang Makabayan (KM),-1,Explosives,0,0,0
+324,1970,6,6,West Germany (FRG),Western Europe,Berlin,West Berlin,52.50153,13.401851,Armed Assault,Business,Extraparliamentary Opposition (APO),-1,Firearms,-1,-1,-1
+325,1970,6,6,West Germany (FRG),Western Europe,Berlin,West Berlin,52.50153,13.401851,Armed Assault,Government (General),Extraparliamentary Opposition (APO),-1,Firearms,-1,-1,-1
+326,1970,6,6,United States,North America,New York,New York City,40.697132,-73.931351,Facility/Infrastructure Attack,Business,Unknown,-99,Chemical,0,0,0
+327,1970,6,6,United States,North America,California,Berkeley,37.874043,-122.280022,Bombing/Explosion,Police,Black Nationalists,-99,Explosives,0,0,0
+328,1970,6,7,Jordan,Middle East & North Africa,Amman,Amman,31.950001,35.933331,Unknown,Military,Unknown,-1,Unknown,0,1,1
+329,1970,6,7,Jordan,Middle East & North Africa,Amman,Amman,31.950001,35.933331,Hostage Taking (Kidnapping),Government (Diplomatic),Popular Front for the Liberation of Palestine (PFLP),-1,Unknown,-1,0,-1
+330,1970,6,7,United States,North America,California,Los Angeles,33.96307,-118.232573,Bombing/Explosion,Police,Black Nationalists,-99,Explosives,0,0,0
+331,1970,6,8,United States,North America,Illinois,Chicago,41.842602,-87.681229,Bombing/Explosion,Government (General),"Weather Underground, Weathermen",-1,Explosives,0,0,0
+332,1970,6,8,United States,North America,California,Oakland,37.791927,-122.225906,Bombing/Explosion,Military,Left-Wing Militants,-99,Explosives,0,0,0
+333,1970,6,9,Venezuela,South America,Lara,Barquisimeto,10.063506,-69.334722,Hostage Taking (Kidnapping),Business,Armed Forces of National Liberation- Venezuela (FALN),3,Unknown,0,0,0
+334,1970,6,9,Iran,Middle East & North Africa,Tehran,Tehran,35.724533,51.40519,Bombing/Explosion,Airports & Aircraft,Popular Front for the Liberation of Palestine (PFLP),-1,Explosives,-1,-1,-1
+335,1970,6,9,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Police,"Weather Underground, Weathermen",-1,Explosives,-1,-1,-1
+336,1970,6,9,Jordan,Middle East & North Africa,Amman,Amman,31.950001,35.933331,Hostage Taking (Barricade Incident),Business,Popular Front for the Liberation of Palestine (PFLP),-1,Firearms,0,0,0
+337,1970,6,9,Jordan,Middle East & North Africa,Amman,Amman,31.950001,35.933331,Hostage Taking (Barricade Incident),Business,Popular Front for the Liberation of Palestine (PFLP),-1,Firearms,0,0,0
+338,1970,6,9,United States,North America,Illinois,Galesburg,40.946915,-90.364659,Facility/Infrastructure Attack,Government (General),Left-Wing Militants,-99,Incendiary,0,0,0
+339,1970,6,9,United States,North America,New Jersey,Newark,40.73197,-74.174184,Assassination,Private Citizens & Property,Black Nationalists,-99,Firearms,0,1,1
+340,1970,6,10,Jordan,Middle East & North Africa,Amman,Amman,31.950001,35.933331,Assassination,Military,Popular Front for the Liberation of Palestine (PFLP),-1,Unknown,1,0,2
+341,1970,6,11,Brazil,South America,Rio de Janeiro,Rio de Janeiro,-22.908278,-43.197026,Hostage Taking (Kidnapping),Government (Diplomatic),Popular Revolutionary Vanguard (VPR),-1,Unknown,1,0,2
+342,1970,6,11,Iran,Middle East & North Africa,Tehran,Tehran,35.724533,51.40519,Bombing/Explosion,Airports & Aircraft,Unknown,-1,Explosives,-1,-1,-1
+343,1970,6,11,United States,North America,Nebraska,Omaha,41.260675,-95.940469,Bombing/Explosion,Police,Black Panthers,-99,Explosives,0,0,0
+344,1970,6,12,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Unknown,Government (Diplomatic),Tupamaros (Uruguay),5,Unknown,0,0,0
+345,1970,6,12,United States,North America,Illinois,Cairo,37.005322,-89.176156,Bombing/Explosion,Government (General),Black Nationalists,-99,Explosives,0,0,0
+346,1970,6,12,United States,North America,Illinois,Cairo,37.005105,-89.176269,Armed Assault,Police,Black Nationalists,-99,Firearms,0,1,1
+347,1970,6,13,United States,North America,Iowa,Des Moines,41.579662,-93.621506,Bombing/Explosion,Business,Black Panthers,-99,Explosives,0,20,20
+348,1970,6,13,United States,North America,Missouri,Kansas City,39.176086,-94.574127,Bombing/Explosion,Business,Black Nationalists,-99,Explosives,0,0,0
+349,1970,6,14,West Germany (FRG),Western Europe,Berlin,West Berlin,52.50153,13.401851,Facility/Infrastructure Attack,Government (General),Unknown,-1,Incendiary,-1,-1,-1
+350,1970,6,14,West Germany (FRG),Western Europe,Berlin,West Berlin,52.50153,13.401851,Facility/Infrastructure Attack,Government (General),Unknown,-1,Incendiary,-1,-1,-1
+351,1970,6,15,United States,North America,California,Manhattan Beach,33.887157,-118.410843,Bombing/Explosion,Police,Black Nationalists,-99,Explosives,0,0,0
+352,1970,6,17,United States,North America,California,Emeryville,37.831455,-122.285164,Bombing/Explosion,Police,Black Nationalists,-99,Explosives,0,3,3
+353,1970,6,18,United States,North America,New York,New York City,40.697132,-73.931351,Facility/Infrastructure Attack,Educational Institution,Student Radicals,2,Incendiary,0,0,0
+354,1970,6,18,United States,North America,New York,New York City,40.697132,-73.931351,Facility/Infrastructure Attack,Other,Black Nationalists,1,Incendiary,0,0,0
+355,1970,6,19,United States,North America,California,Berkeley,37.874043,-122.280022,Bombing/Explosion,Business,Unknown,-1,Explosives,-1,-1,-1
+356,1970,6,19,United States,North America,California,Berkeley,37.874043,-122.280022,Bombing/Explosion,Business,Unknown,-1,Explosives,0,0,0
+357,1970,6,19,United States,North America,Illinois,Chicago,41.842602,-87.681229,Armed Assault,Police,Black Nationalists,2,Firearms,1,0,2
+358,1970,6,19,United States,North America,California,San Francisco,37.755363,-122.443352,Armed Assault,Police,Black Nationalists,-99,Firearms,1,0,2
+359,1970,6,21,United States,North America,Iowa,Des Moines,41.579662,-93.621506,Bombing/Explosion,Police,Black Panthers,-99,Explosives,0,0,0
+360,1970,6,23,West Germany (FRG),Western Europe,Berlin,West Berlin,52.50153,13.401851,Facility/Infrastructure Attack,Government (General),Unknown,-1,Incendiary,-1,-1,-1
+361,1970,6,23,United States,North America,California,San Francisco,37.755363,-122.443352,Bombing/Explosion,Military,Left-Wing Militants,-99,Explosives,0,0,0
+362,1970,6,23,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Business,Jewish Defense League (JDL),-1,Explosives,0,0,0
+363,1970,6,25,United States,North America,Texas,Longview,32.50064,-94.741075,Bombing/Explosion,Private Citizens & Property,White extremists,1,Explosives,0,0,0
+364,1970,6,26,United Kingdom,Western Europe,Northern Ireland,Londonderry,55.011562,-7.312045,Armed Assault,Terrorists/Non-State Militia,Irish Republican Army (IRA),-1,Incendiary,5,-1,-1
+365,1970,6,27,United Kingdom,Western Europe,Northern Ireland,Londonderry,55.011562,-7.312045,Armed Assault,Private Citizens & Property,Irish Republican Army (IRA),-1,Firearms,3,-1,-1
+366,1970,6,27,United Kingdom,Western Europe,Northern Ireland,Belfast,54.607712,-5.95621,Armed Assault,Private Citizens & Property,Irish Republican Army (IRA),-1,Firearms,1,-1,-1
+367,1970,6,27,United Kingdom,Western Europe,Northern Ireland,Belfast,54.607712,-5.95621,Armed Assault,Private Citizens & Property,Irish Republican Army (IRA),-1,Firearms,1,-1,-1
+368,1970,6,27,United Kingdom,Western Europe,Northern Ireland,Belfast,54.607712,-5.95621,Armed Assault,Religious Figures/Institutions,Ulster Volunteer Force (UVF),-1,Firearms,3,1,7
+369,1970,6,28,United States,North America,Michigan,Detroit,42.331685,-83.047924,Armed Assault,Police,National Committee to Combat Fascism,2,Firearms,0,3,3
+370,1970,6,29,United States,North America,Iowa,Des Moines,41.579662,-93.621506,Bombing/Explosion,Educational Institution,Black Panthers,-99,Explosives,0,0,0
+371,1970,6,29,United States,North America,Wisconsin,Whitefish Bay,43.118461,-87.902289,Bombing/Explosion,Business,Left-Wing Militants,-99,Explosives,0,0,0
+372,1970,6,30,United States,North America,New Jersey,Plainfield,40.617623,-74.417061,Armed Assault,Police,Black Nationalists,-99,Firearms,1,1,3
+373,1970,6,30,United States,North America,New York,New York City,40.697132,-73.931351,Facility/Infrastructure Attack,Business,Unknown,-99,Incendiary,0,0,0
+374,1970,6,30,United States,North America,New York,New York City,40.697132,-73.931351,Facility/Infrastructure Attack,Business,Unknown,-99,Incendiary,0,0,0
+375,1970,6,30,United States,North America,New York,New York City,40.697132,-73.931351,Facility/Infrastructure Attack,Business,Unknown,-99,Incendiary,0,0,0
+376,1970,6,30,United States,North America,New York,New York City,40.697132,-73.931351,Facility/Infrastructure Attack,Business,Unknown,-99,Incendiary,0,0,0
+377,1970,7,0,United States,North America,Wisconsin,Wauwatosa,43.074701,-88.008394,Bombing/Explosion,Business,Left-Wing Militants,-99,Explosives,0,0,0
+378,1970,7,0,United States,North America,Massachusetts,Boston,42.290156,-71.04897,Facility/Infrastructure Attack,Religious Figures/Institutions,Black Nationalists,-99,Incendiary,0,0,0
+379,1970,7,1,Brazil,South America,Rio de Janeiro,Rio de Janeiro,-22.908278,-43.197026,Hijacking,Airports & Aircraft,Unknown,4,Unknown,0,0,0
+380,1970,7,1,United States,North America,District of Columbia,Washington,38.908642,-77.015381,Bombing/Explosion,Private Citizens & Property,Revolutionary Force Seven,-99,Explosives,0,0,0
+381,1970,7,1,United States,North America,California,Berkeley,37.874043,-122.280022,Bombing/Explosion,Educational Institution,Student Radicals,-99,Explosives,0,0,0
+382,1970,7,2,United States,North America,District of Columbia,Washington,38.908642,-77.015381,Bombing/Explosion,Government (Diplomatic),Revolutionary Force Seven,-1,Explosives,0,0,0
+383,1970,7,2,United States,North America,District of Columbia,Washington,38.908642,-77.015381,Bombing/Explosion,Government (Diplomatic),Revolutionary Force Seven,-1,Explosives,0,0,0
+384,1970,7,2,United States,North America,District of Columbia,Washington,38.908642,-77.015381,Bombing/Explosion,Government (Diplomatic),Revolutionary Force Seven,-1,Explosives,0,0,0
+385,1970,7,2,United States,North America,District of Columbia,Washington,38.908642,-77.015381,Bombing/Explosion,Government (Diplomatic),Revolutionary Force Seven,-1,Explosives,0,0,0
+386,1970,7,2,United States,North America,Nebraska,Omaha,41.260675,-95.940469,Bombing/Explosion,Business,Black Panthers,-99,Explosives,0,0,0
+387,1970,7,2,United States,North America,California,Compton,33.895285,-118.224329,Bombing/Explosion,Police,Black Nationalists,1,Explosives,1,0,2
+388,1970,7,3,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Private Citizens & Property,White extremists,-99,Explosives,0,0,0
+389,1970,7,3,United States,North America,Washington,Seattle,47.610786,-122.331306,Bombing/Explosion,Business,Seattle Liberation Front,-99,Explosives,0,0,0
+390,1970,7,4,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Business,Unknown,-1,Explosives,0,0,0
+391,1970,7,4,United States,North America,New York,New York City,40.697132,-73.931351,Facility/Infrastructure Attack,Military,Left-Wing Militants,1,Incendiary,0,0,0
+392,1970,7,4,United States,North America,Texas,Longview,32.50064,-94.741075,Bombing/Explosion,Educational Institution,White extremists,2,Explosives,0,0,0
+393,1970,7,4,United States,North America,Ohio,Akron,41.084195,-81.514059,Bombing/Explosion,Private Citizens & Property,Unknown,-99,Explosives,0,0,0
+394,1970,7,4,United States,North America,New York,Long Beach,40.5894,-73.666354,Bombing/Explosion,Private Citizens & Property,Unknown,-99,Explosives,0,0,0
+395,1970,7,4,United States,North America,California,San Francisco,37.755363,-122.443352,Assassination,Private Citizens & Property,Strikers,3,Firearms,0,1,1
+396,1970,7,5,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Police,Black Nationalists,-99,Explosives,0,0,0
+397,1970,7,7,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Private Citizens & Property,"Weather Underground, Weathermen",-1,Explosives,0,0,0
+398,1970,7,7,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Government (Diplomatic),Unknown,-1,Explosives,0,0,0
+399,1970,7,7,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Business,Unknown,-1,Explosives,0,0,0
+400,1970,7,7,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Government (Diplomatic),Unknown,-1,Explosives,0,0,0
+401,1970,7,8,United States,North America,Alabama,Oneonta,33.948315,-86.472939,Bombing/Explosion,Business,Unknown,2,Explosives,0,0,0
+402,1970,7,8,United States,North America,California,Petaluma,38.232471,-122.644448,Facility/Infrastructure Attack,Journalists & Media,Strikers,-99,Incendiary,0,0,0
+403,1970,7,9,West Germany (FRG),Western Europe,Bavaria,Munich,48.139126,11.580186,Facility/Infrastructure Attack,Government (General),Unknown,-1,Incendiary,-1,-1,-1
+404,1970,7,9,United States,North America,Illinois,Des Plaines,42.039274,-87.859977,Facility/Infrastructure Attack,Government (General),Left-Wing Militants,-99,Incendiary,0,0,0
+405,1970,7,10,Colombia,South America,Caldas,Manizales,5.059097,-75.50596,Hostage Taking (Kidnapping),Government (General),Unknown,-1,Unknown,-1,-1,-1
+406,1970,7,11,Guatemala,Central America & Caribbean,Unknown,Unknown,0.0,0.0,Hostage Taking (Kidnapping),Business,Rebel Armed Forces of Guatemala (FAR),-1,Unknown,-1,-1,-1
+407,1970,7,11,United States,North America,Massachusetts,New Bedford,41.637675,-70.930869,Armed Assault,Private Citizens & Property,White extremists,-99,Firearms,1,3,5
+408,1970,7,12,United States,North America,California,Palo Alto,37.424305,-122.143913,Bombing/Explosion,Business,Unknown,-1,Explosives,0,0,0
+409,1970,7,14,United States,North America,Illinois,Chicago,41.842602,-87.681229,Facility/Infrastructure Attack,NGO,Black Nationalists,-99,Incendiary,0,0,0
+410,1970,7,14,United States,North America,New York,New York City,40.697132,-73.931351,Facility/Infrastructure Attack,Military,Left-Wing Militants,-99,Incendiary,0,0,0
+411,1970,7,16,United States,North America,Illinois,Chicago,41.842602,-87.681229,Facility/Infrastructure Attack,NGO,White extremists,-99,Incendiary,0,0,0
+412,1970,7,16,United States,North America,New York,New York City,40.697132,-73.931351,Facility/Infrastructure Attack,Military,Left-Wing Militants,-99,Incendiary,0,0,0
+413,1970,7,16,United States,North America,Minnesota,St. Paul,44.943829,-93.093326,Facility/Infrastructure Attack,Government (General),Left-Wing Militants,-99,Incendiary,0,0,0
+414,1970,7,17,United States,North America,Illinois,Chicago,41.842602,-87.681229,Armed Assault,Police,Black Nationalists,2,Firearms,2,0,4
+415,1970,7,18,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Business,Left-Wing Militants,-99,Explosives,0,0,0
+416,1970,7,20,United States,North America,New York,New York City,40.697132,-73.931351,Facility/Infrastructure Attack,NGO,Black Nationalists,3,Incendiary,0,0,0
+417,1970,7,21,Bolivia,South America,Unknown,Unknown,0.0,0.0,Hostage Taking (Kidnapping),Business,Ejercito de Liberacion Nacional (Bolivia),5,Unknown,0,0,0
+418,1970,7,21,United States,North America,California,San Diego,32.715695,-117.161719,Bombing/Explosion,Business,Unknown,-1,Explosives,0,0,0
+419,1970,7,21,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Police,Left-Wing Militants,-99,Explosives,0,0,0
+420,1970,7,21,United States,North America,Wisconsin,Milwaukee,43.064388,-87.966202,Bombing/Explosion,Business,Left-Wing Militants,-99,Explosives,0,0,0
+421,1970,7,22,Greece,Western Europe,Attica,Athens,37.99749,23.762728,Hijacking,Airports & Aircraft,Arabs,6,Firearms,0,0,0
+422,1970,7,22,United States,North America,Wisconsin,Milwaukee,43.064388,-87.966202,Bombing/Explosion,Utilities,Left-Wing Militants,-99,Explosives,0,0,0
+423,1970,7,22,United States,North America,New Jersey,Camden,39.933449,-75.106743,Facility/Infrastructure Attack,Military,Left-Wing Militants,-99,Incendiary,0,0,0
+424,1970,7,23,Nicaragua,Central America & Caribbean,Managua,Managua,12.103822,-86.267014,Hostage Taking (Kidnapping),Business,Sandinista National Liberation Front (FSLN),4,Unknown,0,0,0
+425,1970,7,23,United States,North America,California,Los Angeles,34.097866,-118.407379,Bombing/Explosion,Government (General),Left-Wing Militants,-99,Explosives,0,0,0
+426,1970,7,24,Brazil,South America,Pernambuco,Recife,-8.048021,-34.876338,Hostage Taking (Kidnapping),Government (Diplomatic),Unknown,3,Unknown,0,0,0
+427,1970,7,24,United States,North America,New York,New York City,40.697132,-73.931351,Facility/Infrastructure Attack,NGO,Jewish Defense League (JDL),-99,Incendiary,0,0,0
+428,1970,7,26,United States,North America,Missouri,St. Louis,38.62774,-90.199514,Assassination,Business,Unknown,-1,Explosives,1,0,2
+429,1970,7,26,United States,North America,Wisconsin,Sparta,43.939135,-90.820369,Bombing/Explosion,Military,American Servicemen's Union (ASU),-1,Explosives,0,0,0
+430,1970,7,27,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Business,"Weather Underground, Weathermen",-1,Explosives,0,0,0
+431,1970,7,26,United States,North America,Wisconsin,Sparta,43.939135,-90.820369,Bombing/Explosion,Utilities,American Servicemen's Union (ASU),3,Explosives,0,0,0
+432,1970,7,26,United States,North America,Wisconsin,Sparta,43.939135,-90.820369,Bombing/Explosion,Telecommunication,American Servicemen's Union (ASU),3,Explosives,0,0,0
+433,1970,7,27,United States,North America,California,San Francisco,37.755363,-122.443352,Bombing/Explosion,Military,Left-Wing Militants,-99,Explosives,0,0,0
+434,1970,7,27,United States,North America,California,San Francisco,37.755363,-122.443352,Bombing/Explosion,Military,Left-Wing Militants,-99,Explosives,0,0,0
+435,1970,7,28,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Hostage Taking (Kidnapping),Government (General),Tupamaros (Uruguay),4,Unknown,0,0,0
+436,1970,7,28,United States,North America,Texas,Houston,29.813822,-95.365295,Bombing/Explosion,Business,Unknown,-1,Explosives,0,0,0
+437,1970,7,28,Spain,Western Europe,Navarre,Pamplona,42.815372,-1.653616,Bombing/Explosion,Journalists & Media,GAC,-1,Explosives,-1,-1,-1
+438,1970,7,30,United States,North America,California,Alameda,37.774422,-122.275475,Bombing/Explosion,Government (General),"Weather Underground, Weathermen",-1,Explosives,0,0,0
+439,1970,7,30,United States,North America,Illinois,Chicago,41.842602,-87.681229,Bombing/Explosion,Utilities,Black Panthers,1,Explosives,0,0,0
+440,1970,7,31,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Hostage Taking (Kidnapping),Government (Diplomatic),Tupamaros (Uruguay),5,Unknown,-1,-1,-1
+441,1970,7,31,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Hostage Taking (Kidnapping),Government (Diplomatic),Tupamaros (Uruguay),-1,Unknown,0,0,0
+442,1970,7,31,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Hostage Taking (Kidnapping),Government (General),Tupamaros (Uruguay),4,Unknown,1,0,2
+443,1970,7,31,Argentina,South America,Buenos Aires,Garin,-34.422436,-58.737755,Armed Assault,Private Citizens & Property,Revolutionary Armed Forces- Argentina (FAR-A),22,Firearms,0,0,0
+444,1970,7,31,United States,North America,North Carolina,Charlotte,35.2225,-80.837539,Armed Assault,Private Citizens & Property,White extremists,-99,Firearms,0,0,0
+445,1970,8,0,Netherlands,Western Europe,North Holland,Amsterdam,52.370216,4.895168,Armed Assault,Government (Diplomatic),South Moluccans,-1,Firearms,-1,-1,-1
+446,1970,8,1,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Business,"Weather Underground, Weathermen",-1,Explosives,0,0,0
+447,1970,8,1,Belgium,Western Europe,Brussels,Brussels,50.836426,4.367415,Bombing/Explosion,Government (Diplomatic),Croatian Nationalists,-1,Explosives,0,0,0
+448,1970,8,2,United States,North America,California,Berkeley,37.874043,-122.280022,Bombing/Explosion,Police,Black Nationalists,-99,Explosives,0,0,0
+449,1970,8,5,United States,North America,Wisconsin,Milwaukee,43.064388,-87.966202,Bombing/Explosion,Business,Left-Wing Militants,-99,Explosives,0,0,0
+450,1970,8,6,Argentina,South America,Tucuman,San Miguel de Tucuman,-26.808285,-65.21759,Assassination,Police,Unknown,-1,Firearms,1,0,2
+451,1970,8,6,United States,North America,California,Placentia,33.871124,-117.861401,Bombing/Explosion,Business,Unknown,-1,Explosives,0,0,0
+452,1970,8,6,United States,North America,California,San Jose,37.338475,-121.885794,Armed Assault,Police,Black Nationalists,1,Firearms,1,0,2
+453,1970,8,7,East Germany (GDR),Eastern Europe,Berlin,Berlin,52.50153,13.401851,Bombing/Explosion,Government (General),SFT,-1,Explosives,-1,-1,-1
+454,1970,8,7,United States,North America,Maryland,Dundalk,39.26931,-76.503519,Facility/Infrastructure Attack,Government (General),Left-Wing Militants,-99,Incendiary,0,0,0
+455,1970,8,7,United States,North America,California,San Rafael,37.97457,-122.532474,Hostage Taking (Kidnapping),Government (General),Jonathan Jackson Brigade,-1,Firearms,4,2,10
+456,1970,8,9,Argentina,South America,Santa Fe,Santa Fe,-31.632368,-60.699359,Armed Assault,Business,Peronist Armed Forces (FAP),5,Firearms,-1,-1,-1
+457,1970,8,10,United States,North America,Oregon,Portland,45.511795,-122.675629,Facility/Infrastructure Attack,Government (General),White Panther Party,4,Incendiary,0,0,0
+458,1970,8,11,United Kingdom,Western Europe,Northern Ireland,Crossmaglen,54.077313,-6.608787,Bombing/Explosion,Police,Irish Republican Army (IRA),-1,Explosives,2,-1,-1
+459,1970,8,12,East Germany (GDR),Eastern Europe,Berlin,Berlin,52.50153,13.401851,Bombing/Explosion,Police,Unknown,-1,Explosives,-1,-1,-1
+460,1970,8,14,East Germany (GDR),Eastern Europe,Berlin,Berlin,52.50153,13.401851,Bombing/Explosion,Police,Unknown,-1,Explosives,-1,-1,-1
+461,1970,8,15,United States,North America,Mississippi,West Point,33.60651,-88.650419,Assassination,Private Citizens & Property,White extremists,-99,Firearms,1,0,2
+462,1970,8,17,United States,North America,Nebraska,Omaha,41.260675,-95.940469,Bombing/Explosion,Private Citizens & Property,Black Panthers,-1,Explosives,1,7,9
+463,1970,8,17,United States,North America,Minnesota,Minneapolis,44.964985,-93.260193,Bombing/Explosion,Military,Left-Wing Militants,-99,Explosives,0,1,1
+464,1970,8,18,United States,North America,New York,New York City,40.697132,-73.931351,Facility/Infrastructure Attack,NGO,Jewish Defense League (JDL),-99,Incendiary,0,0,0
+465,1970,8,19,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Hostage Taking (Kidnapping),Government (General),Tupamaros (Uruguay),5,Unknown,0,0,0
+466,1970,8,20,United States,North America,District of Columbia,Washington,38.908642,-77.015381,Bombing/Explosion,Government (Diplomatic),Revolutionary Action Party,-1,Explosives,0,0,0
+467,1970,8,20,United States,North America,Maryland,Reisterstown,39.464791,-76.829198,Facility/Infrastructure Attack,Government (General),Left-Wing Militants,2,Incendiary,0,0,0
+468,1970,8,20,United States,North America,California,Berkeley,37.874043,-122.280022,Armed Assault,Police,Black Nationalists,-99,Firearms,1,0,2
+469,1970,8,21,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Hostage Taking (Barricade Incident),Telecommunication,Tupamaros (Uruguay),6,Firearms,0,0,0
+470,1970,8,21,United States,North America,Oregon,Eugene,44.04483,-123.072606,Facility/Infrastructure Attack,Educational Institution,Student Radicals,-99,Incendiary,0,0,0
+471,1970,8,22,United States,North America,Minnesota,St. Paul,44.943829,-93.093326,Bombing/Explosion,Police,Black Panthers,1,Explosives,0,1,1
+472,1970,8,22,United States,North America,Maryland,Baltimore,39.308342,-76.616104,Facility/Infrastructure Attack,Military,Left-Wing Militants,-99,Incendiary,0,0,0
+473,1970,8,24,United States,North America,Wisconsin,Madison,43.07295,-89.386694,Bombing/Explosion,Military,New Year's Gang,-1,Explosives,1,4,6
+474,1970,8,25,Mexico,North America,Federal,Mexico city,19.371887,-99.086624,Hostage Taking (Kidnapping),Government (Diplomatic),Unknown,6,Unknown,0,0,0
+475,1970,8,25,United States,North America,Massachusetts,Burlington,42.505832,-71.19376,Facility/Infrastructure Attack,Police,Left-Wing Militants,-99,Incendiary,0,0,0
+476,1970,8,27,East Germany (GDR),Eastern Europe,Berlin,Berlin,52.50153,13.401851,Bombing/Explosion,Business,Unknown,-1,Explosives,-1,-1,-1
+477,1970,8,27,United States,North America,Massachusetts,Cambridge,42.377003,-71.11666,Facility/Infrastructure Attack,Educational Institution,Student Radicals,-99,Incendiary,0,0,0
+478,1970,8,28,United States,North America,North Carolina,Rocky Mount,35.948199,-77.795207,Bombing/Explosion,Educational Institution,White extremists,-99,Explosives,0,0,0
+479,1970,8,28,United States,North America,California,Walnut Creek,37.90118,-122.061628,Facility/Infrastructure Attack,Military,Left-Wing Militants,-99,Incendiary,0,0,0
+480,1970,8,29,United States,North America,District of Columbia,Washington,38.908642,-77.015381,Bombing/Explosion,Government (Diplomatic),Revolutionary Action Party,-1,Explosives,0,0,0
+481,1970,8,29,United States,North America,California,Berkeley,37.874043,-122.280022,Facility/Infrastructure Attack,Business,Unknown,-1,Incendiary,0,0,0
+482,1970,8,29,United States,North America,California,Walnut Creek,37.90118,-122.061628,Facility/Infrastructure Attack,Government (General),Left-Wing Militants,-99,Incendiary,0,0,0
+483,1970,8,29,United States,North America,California,Santa Fe Springs,33.946154,-118.082952,Bombing/Explosion,Government (General),Left-Wing Militants,-99,Explosives,0,0,0
+484,1970,8,30,United States,North America,District of Columbia,Washington,38.908642,-77.015381,Bombing/Explosion,Government (Diplomatic),Revolutionary Action Party,-1,Explosives,0,0,0
+485,1970,8,30,United States,North America,Georgia,Athens,33.948005,-83.377322,Facility/Infrastructure Attack,Educational Institution,Student Radicals,-99,Incendiary,0,0,0
+486,1970,8,31,Turkey,Middle East & North Africa,Ankara,Ankara,39.930771,32.76754,Bombing/Explosion,Military,Turkish People's Liberation Army,-1,Explosives,0,0,0
+487,1970,9,0,Jordan,Middle East & North Africa,Amman,Amman,31.950001,35.933331,Hostage Taking (Kidnapping),Military,Palestinians,-1,Unknown,0,0,0
+488,1970,9,0,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Facility/Infrastructure Attack,Business,Tupamaros (Uruguay),4,Incendiary,2,0,4
+489,1970,9,1,United States,North America,Pennsylvania,Philadelphia,40.008171,-75.13549,Armed Assault,Business,"Weather Underground, Weathermen",-1,Firearms,0,0,0
+490,1970,9,2,Greece,Western Europe,Attica,Athens,37.99749,23.762728,Bombing/Explosion,Government (Diplomatic),Unknown,2,Explosives,2,0,4
+491,1970,9,2,United States,North America,California,San Francisco,37.755363,-122.443352,Bombing/Explosion,Police,Black Nationalists,-99,Explosives,0,0,0
+492,1970,9,2,United States,North America,California,Milpitas,37.432805,-121.897259,Bombing/Explosion,Business,Left-Wing Militants,-99,Explosives,0,0,0
+493,1970,9,3,United States,North America,California,Fremont,37.548148,-121.988566,Bombing/Explosion,Business,Left-Wing Militants,-99,Explosives,0,0,0
+494,1970,9,3,United States,North America,Tennessee,Memphis,35.14968,-90.048929,Bombing/Explosion,Private Citizens & Property,Unknown,-99,Explosives,0,0,0
+495,1970,9,4,United States,North America,Minnesota,St. Paul,44.943829,-93.093326,Bombing/Explosion,Business,Unknown,-1,Explosives,0,0,0
+496,1970,9,4,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Assassination,Government (General),Tupamaros (Uruguay),4,Explosives,0,0,0
+497,1970,9,4,United Kingdom,Western Europe,Northern Ireland,Belfast,54.607712,-5.95621,Bombing/Explosion,Terrorists/Non-State Militia,Irish Republican Army (IRA),-1,Explosives,1,-1,-1
+498,1970,9,4,United States,North America,Wisconsin,Milwaukee,43.064388,-87.966202,Bombing/Explosion,Business,Left-Wing Militants,-99,Explosives,0,0,0
+499,1970,9,4,United States,North America,California,Santa Ana,33.745573,-117.867834,Bombing/Explosion,Government (General),Left-Wing Militants,-99,Explosives,0,0,0
+500,1970,9,5,United States,North America,Iowa,DeWitt,41.82277,-90.538969,Bombing/Explosion,Police,Black Nationalists,1,Explosives,0,2,2
+501,1970,9,5,United States,North America,California,Los Angeles,34.097866,-118.407379,Bombing/Explosion,Government (General),Left-Wing Militants,-99,Explosives,0,0,0
+502,1970,9,6,West Germany (FRG),Western Europe,Hesse,Frankfurt,50.11797,8.644191,Hijacking,Airports & Aircraft,Popular Front for the Liberation of Palestine (PFLP),2,Explosives,0,0,0
+503,1970,9,6,Switzerland,Western Europe,Zurich,Zurich,47.36865,8.539182,Hijacking,Airports & Aircraft,Popular Front for the Liberation of Palestine (PFLP),2,Unknown,0,0,0
+504,1970,9,6,Netherlands,Western Europe,North Holland,Amsterdam,52.370216,4.895168,Hijacking,Airports & Aircraft,Popular Front for the Liberation of Palestine (PFLP),9,Firearms,0,0,0
+505,1970,9,6,Netherlands,Western Europe,North Holland,Amsterdam,52.370216,4.895168,Hijacking,Airports & Aircraft,Popular Front for the Liberation of Palestine (PFLP),2,Firearms,1,0,2
+506,1970,9,6,United States,North America,Massachusetts,Fitchburg,42.58176,-71.792259,Bombing/Explosion,Police,Unknown,-99,Explosives,0,0,0
+507,1970,9,9,East Germany (GDR),Eastern Europe,Berlin,Berlin,52.50153,13.401851,Bombing/Explosion,Private Citizens & Property,Extraparliamentary Opposition (APO),-1,Explosives,0,0,0
+508,1970,9,9,Argentina,South America,Cordoba,Cordoba,-31.399301,-64.182129,Bombing/Explosion,Government (Diplomatic),Ejercito Revolucionaria del Pueblo (ERP) (Argentina),3,Explosives,0,0,0
+509,1970,9,9,United States,North America,Wisconsin,Madison,43.07295,-89.386694,Facility/Infrastructure Attack,Journalists & Media,Right-wing extremists,-99,Incendiary,0,0,0
+510,1970,9,10,United States,North America,Florida,Gainesville,29.647665,-82.348458,Facility/Infrastructure Attack,Educational Institution,Student Radicals,-99,Incendiary,0,0,0
+511,1970,9,11,Jordan,Middle East & North Africa,Amman,Amman,31.950001,35.933331,Hostage Taking (Kidnapping),Government (Diplomatic),Palestine Liberation Organization (PLO),-1,Unknown,0,0,0
+512,1970,9,11,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Bombing/Explosion,Business,Tupamaros (Uruguay),4,Explosives,0,0,0
+513,1970,9,12,Argentina,South America,Buenos Aires,Buenos Aires,-34.61768,-58.444435,Hostage Taking (Kidnapping),Journalists & Media,Unknown,3,Unknown,-1,-1,-1
+514,1970,9,12,United Kingdom,Western Europe,England,London,51.504387,-0.140041,Hostage Taking (Kidnapping),Government (Diplomatic),Jewish Defense League (JDL),4,Unknown,0,0,0
+515,1970,9,14,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Facility/Infrastructure Attack,Business,Tupamaros (Uruguay),-1,Incendiary,0,0,0
+516,1970,9,16,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Facility/Infrastructure Attack,Business,Tupamaros (Uruguay),-1,Incendiary,0,0,0
+517,1970,9,18,Argentina,South America,Santa Fe,Rosario,-32.951052,-60.666365,Armed Assault,Police,Ejercito Revolucionaria del Pueblo (ERP) (Argentina),6,Firearms,0,2,2
+518,1970,9,18,United States,North America,Ohio,Toledo,41.67086,-83.543846,Armed Assault,Police,Black Panthers,1,Firearms,1,1,3
+519,1970,9,20,United States,North America,Massachusetts,Newburyport,42.811978,-70.872638,Bombing/Explosion,Military,Welsh Extremists,2,Explosives,0,0,0
+520,1970,9,23,United States,North America,Massachusetts,Brighton,42.350097,-71.156442,Armed Assault,Police,"Weather Underground, Weathermen",5,Firearms,1,0,2
+521,1970,9,23,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Facility/Infrastructure Attack,Business,Tupamaros (Uruguay),-1,Incendiary,0,0,0
+522,1970,9,24,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Government (General),Unknown,-1,Explosives,0,0,0
+523,1970,9,24,East Germany (GDR),Eastern Europe,Berlin,Berlin,52.50153,13.401851,Bombing/Explosion,Government (Diplomatic),Unknown,-1,Explosives,-1,-1,-1
+524,1970,9,25,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Military,"Weather Underground, Weathermen",-1,Explosives,0,0,0
+525,1970,9,26,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Hostage Taking (Kidnapping),Police,Tupamaros (Uruguay),4,Unknown,0,0,0
+526,1970,9,26,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Government (Diplomatic),Unknown,-1,Explosives,0,0,0
+527,1970,9,27,United States,North America,New York,New York City,40.697132,-73.931351,Hijacking,Airports & Aircraft,Jewish Defense League (JDL),2,Explosives,0,0,0
+528,1970,9,30,United Kingdom,Western Europe,Northern Ireland,Belfast,54.607712,-5.95621,Armed Assault,Private Citizens & Property,Protestant extremists,-1,Firearms,1,-1,-1
+529,1970,10,0,Iran,Middle East & North Africa,Tehran,Tehran,35.724533,51.40519,Armed Assault,Business,Siah KAL,-1,Firearms,-1,-1,-1
+530,1970,10,1,United States,North America,Maryland,Baltimore,39.308342,-76.616104,Facility/Infrastructure Attack,Private Citizens & Property,White extremists,-99,Incendiary,0,0,0
+531,1970,10,2,Turkey,Middle East & North Africa,Izmir,Izmir,38.395649,27.135641,Bombing/Explosion,Military,Turkish People's Liberation Front (TPLF)(THKP-C),-1,Explosives,0,0,0
+532,1970,10,2,United States,North America,Oregon,Eugene,44.04483,-123.072606,Bombing/Explosion,Educational Institution,Student Radicals,-99,Explosives,0,0,0
+533,1970,10,2,United States,North America,Maryland,Glen Burnie,39.162608,-76.624689,Facility/Infrastructure Attack,Food or Water Supply,Neo-Nazi extremists,4,Incendiary,0,0,0
+534,1970,10,3,Turkey,Middle East & North Africa,Ankara,Ankara,39.930771,32.76754,Bombing/Explosion,Government (Diplomatic),Unknown,-1,Explosives,-1,-1,-1
+535,1970,10,3,Turkey,Middle East & North Africa,Ankara,Ankara,39.930771,32.76754,Bombing/Explosion,Business,Turkish People's Liberation Army,-1,Explosives,0,0,0
+536,1970,10,5,Canada,North America,Quebec,Quebec,46.803137,-71.241298,Hostage Taking (Kidnapping),Government (General),Front de Liberation du Quebec (FLQ),-1,Unknown,0,0,0
+537,1970,10,5,United States,North America,Illinois,Chicago,41.842602,-87.681229,Bombing/Explosion,Private Citizens & Property,"Weather Underground, Weathermen",-1,Explosives,0,0,0
+538,1970,10,5,United States,North America,West Virginia,Bluefield,37.264891,-81.240268,Bombing/Explosion,Educational Institution,Student Radicals,-99,Explosives,0,0,0
+539,1970,10,6,Turkey,Middle East & North Africa,Ankara,Ankara,39.930771,32.76754,Armed Assault,Military,Turkish People's Liberation Army,-1,Incendiary,0,0,0
+540,1970,10,6,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Terrorists/Non-State Militia,Unknown,-1,Explosives,0,0,0
+541,1970,10,8,United States,North America,Washington,Seattle,47.610786,-122.331306,Bombing/Explosion,Military,Quartermoon Society,-1,Explosives,0,0,0
+542,1970,10,8,United States,North America,California,Santa Barbara,34.419255,-119.698869,Bombing/Explosion,Military,"Weather Underground, Weathermen",-1,Explosives,0,0,0
+543,1970,10,8,United States,North America,California,San Rafael,37.97457,-122.532474,Bombing/Explosion,Government (General),"Weather Underground, Weathermen",-1,Explosives,0,0,0
+544,1970,10,8,United States,North America,California,Berkeley,37.874043,-122.280022,Bombing/Explosion,Educational Institution,"Weather Underground, Weathermen",-1,Explosives,0,0,0
+545,1970,10,8,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Facility/Infrastructure Attack,Business,Tupamaros (Uruguay),-1,Incendiary,0,0,0
+546,1970,10,8,West Germany (FRG),Western Europe,Baden-Wurttemberg,Stuttgart,48.777106,9.180769,Bombing/Explosion,Government (Diplomatic),Students for a Democratic Society (SDS) (German),-1,Explosives,0,0,0
+547,1970,10,9,United States,North America,Texas,Houston,29.813822,-95.365295,Bombing/Explosion,Telecommunication,Ku Klux Klan,4,Explosives,0,0,0
+548,1970,10,10,Canada,North America,Quebec,Saint-Lambert,46.803137,-71.241298,Hostage Taking (Kidnapping),Government (General),Front de Liberation du Quebec (FLQ),4,Firearms,1,0,2
+549,1970,10,10,Iran,Middle East & North Africa,Tehran,Tehran,35.724533,51.40519,Hijacking,Airports & Aircraft,Iranians,3,Unknown,0,1,1
+550,1970,10,10,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Government (General),"Weather Underground, Weathermen",-99,Explosives,0,0,0
+551,1970,10,14,United States,North America,Massachusetts,Cambridge,42.36679,-71.106019,Bombing/Explosion,Educational Institution,"Weather Underground, Weathermen",-1,Explosives,0,0,0
+552,1970,10,14,West Germany (FRG),Western Europe,Bavaria,Munich,48.139126,11.580186,Bombing/Explosion,Police,Unknown,-1,Explosives,-1,-1,-1
+553,1970,10,15,United States,North America,Massachusetts,Cambridge,42.36679,-71.106019,Bombing/Explosion,Educational Institution,"Weather Underground, Weathermen",-1,Explosives,0,0,0
+554,1970,10,15,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Facility/Infrastructure Attack,Journalists & Media,Tupamaros (Uruguay),-1,Incendiary,0,0,0
+555,1970,10,15,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Facility/Infrastructure Attack,Business,Tupamaros (Uruguay),-1,Incendiary,0,0,0
+556,1970,10,15,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Facility/Infrastructure Attack,Airports & Aircraft,Tupamaros (Uruguay),-1,Incendiary,0,0,0
+557,1970,10,15,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Facility/Infrastructure Attack,Business,Tupamaros (Uruguay),-1,Incendiary,0,0,0
+558,1970,10,15,United States,North America,Missouri,Kansas City,39.176086,-94.574127,Bombing/Explosion,Police,Black Nationalists,-99,Explosives,0,2,2
+559,1970,10,16,Argentina,South America,Buenos Aires,Buenos Aires,-34.61768,-58.444435,Facility/Infrastructure Attack,Government (General),Unknown,-1,Incendiary,-1,-1,-1
+560,1970,10,17,West Germany (FRG),Western Europe,Bavaria,Munich,48.139126,11.580186,Bombing/Explosion,Police,Unknown,-1,Explosives,-1,-1,-1
+561,1970,10,18,United States,North America,California,Irvine,33.683734,-117.794609,Bombing/Explosion,Educational Institution,Unknown,-1,Explosives,0,0,0
+562,1970,10,19,United States,North America,California,Irvine,33.683734,-117.794609,Bombing/Explosion,Educational Institution,Unknown,-1,Explosives,0,0,0
+563,1970,10,20,Argentina,South America,Buenos Aires,Buenos Aires,-34.61768,-58.444435,Bombing/Explosion,Government (Diplomatic),Unknown,-1,Explosives,0,0,0
+564,1970,10,20,United States,North America,Illinois,Cairo,37.005105,-89.176269,Facility/Infrastructure Attack,Government (General),Black Nationalists,-99,Incendiary,0,0,0
+565,1970,10,21,Australia,Australasia & Oceania,Victoria,Melbourne,-37.813187,144.96298,Bombing/Explosion,Government (Diplomatic),Croatian Nationalists,-1,Explosives,0,0,0
+566,1970,10,21,United States,North America,Illinois,Cairo,37.005105,-89.176269,Armed Assault,Police,Black Nationalists,-99,Firearms,0,0,0
+567,1970,10,22,United States,North America,California,San Francisco,37.755363,-122.443352,Bombing/Explosion,Religious Figures/Institutions,Black Liberation Army,-1,Explosives,0,0,0
+568,1970,10,24,United States,North America,Michigan,Detroit,42.331685,-83.047924,Armed Assault,Police,National Committee to Combat Fascism,-1,Firearms,1,0,2
+569,1970,10,24,Italy,Western Europe,Lazio,Rome,41.890961,12.490069,Unarmed Assault,Educational Institution,Unknown,25,Chemical,0,0,0
+570,1970,10,24,United States,North America,Illinois,Cairo,37.005105,-89.176269,Facility/Infrastructure Attack,Business,Black Nationalists,-99,Incendiary,0,0,0
+571,1970,10,24,United States,North America,Illinois,Cairo,37.005105,-89.176269,Armed Assault,Police,Black Panthers,16,Firearms,0,2,2
+572,1970,10,25,United States,North America,District of Columbia,Washington,38.908642,-77.015381,Bombing/Explosion,Government (General),Unknown,-99,Explosives,0,1,1
+573,1970,10,26,United States,North America,California,Irvine,33.683734,-117.794609,Facility/Infrastructure Attack,Business,Unknown,-1,Incendiary,0,0,0
+574,1970,10,27,Argentina,South America,Buenos Aires,Buenos Aires,-34.61768,-58.444435,Assassination,Private Citizens & Property,Unknown,-1,Unknown,1,0,2
+575,1970,10,27,Turkey,Middle East & North Africa,Ankara,Ankara,39.930771,32.76754,Bombing/Explosion,Military,Turkish People's Liberation Army,-1,Explosives,0,0,0
+576,1970,10,27,United Kingdom,Western Europe,England,London,51.504387,-0.140041,Facility/Infrastructure Attack,Airports & Aircraft,1st of May Group,-1,Incendiary,0,0,0
+577,1970,10,28,United States,North America,Florida,Stuart,27.19999,-80.255359,Facility/Infrastructure Attack,Government (General),Left-Wing Militants,-99,Incendiary,0,0,0
+578,1970,10,28,United States,North America,Wisconsin,Whitefish Bay,43.111261,-87.898632,Bombing/Explosion,Police,Left-Wing Militants,-99,Explosives,0,0,0
+579,1970,10,29,United States,North America,California,El Toro,33.62905,-117.691249,Facility/Infrastructure Attack,Military,Left-Wing Militants,2,Incendiary,0,0,0
+580,1970,10,30,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Military,Left-Wing Militants,-99,Explosives,0,0,0
+581,1970,10,30,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Police,Left-Wing Militants,-99,Explosives,0,0,0
+582,1970,10,30,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Military,Left-Wing Militants,-99,Explosives,0,0,0
+583,1970,10,30,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Unknown,Left-Wing Militants,-99,Explosives,0,0,0
+584,1970,11,0,Iran,Middle East & North Africa,Tehran,Tehran,35.724533,51.40519,Hostage Taking (Kidnapping),Government (Diplomatic),Unknown,4,Unknown,0,0,0
+585,1970,11,1,Pakistan,South Asia,Sindh,Karachi,24.891115,67.143311,Assassination,Government (Diplomatic),Unknown,1,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",4,20,28
+586,1970,11,1,United States,North America,California,Fresno,36.740685,-119.785734,Bombing/Explosion,Journalists & Media,Unknown,-1,Explosives,0,0,0
+587,1970,11,1,United States,North America,California,Fresno,36.740685,-119.785734,Bombing/Explosion,Military,Unknown,-1,Explosives,0,0,0
+588,1970,11,1,United States,North America,Pennsylvania,New Castle,41.001845,-80.34724,Armed Assault,Private Citizens & Property,White extremists,-99,Firearms,1,0,2
+589,1970,11,1,United States,North America,Michigan,Ann Arbor,42.278044,-83.738224,Facility/Infrastructure Attack,Military,Student Radicals,-99,Incendiary,0,0,0
+590,1970,11,2,Argentina,South America,Buenos Aires,Buenos Aires,-34.61768,-58.444435,Armed Assault,Private Citizens & Property,Montoneros (Argentina),7,Firearms,0,0,0
+591,1970,11,2,Argentina,South America,Buenos Aires,Ensenada,-34.864823,-57.908519,Armed Assault,Private Citizens & Property,Montoneros (Argentina),11,Firearms,0,0,0
+592,1970,11,7,East Germany (GDR),Eastern Europe,Berlin,Berlin,52.50153,13.401851,Bombing/Explosion,Religious Figures/Institutions,Unknown,-1,Explosives,-1,-1,-1
+593,1970,11,7,United States,North America,Illinois,Cairo,37.005105,-89.176269,Facility/Infrastructure Attack,Business,Black Nationalists,-99,Incendiary,0,0,0
+594,1970,11,7,United States,North America,Minnesota,Minneapolis,44.964985,-93.260193,Facility/Infrastructure Attack,Military,Student Radicals,-99,Incendiary,0,0,0
+595,1970,11,8,United States,North America,Illinois,Cairo,37.005105,-89.176269,Armed Assault,Private Citizens & Property,White extremists,-99,Firearms,1,0,2
+596,1970,11,9,West Germany (FRG),Western Europe,Hesse,Frankfurt,50.11797,8.644191,Armed Assault,Military,Baader-Meinhof Group,-1,Incendiary,0,0,0
+597,1970,11,10,Turkey,Middle East & North Africa,Ankara,Ankara,39.930771,32.76754,Facility/Infrastructure Attack,Airports & Aircraft,Unknown,1,Incendiary,0,0,0
+598,1970,11,12,United States,North America,Illinois,Chicago,41.842602,-87.681229,Facility/Infrastructure Attack,Government (General),Left-Wing Militants,1,Incendiary,0,0,0
+599,1970,11,14,United States,North America,Puerto Rico,San Juan,18.386932,-66.061127,Bombing/Explosion,Business,Armed Commandos of Liberation,-1,Explosives,0,0,0
+600,1970,11,14,United States,North America,Puerto Rico,San Juan,18.386932,-66.061127,Bombing/Explosion,Business,Armed Commandos of Liberation,-1,Explosives,0,0,0
+601,1970,11,14,United States,North America,Puerto Rico,San Juan,18.386932,-66.061127,Bombing/Explosion,Business,Armed Commandos of Liberation,-1,Explosives,0,0,0
+602,1970,11,14,United States,North America,Puerto Rico,San Juan,18.386932,-66.061127,Bombing/Explosion,Business,Armed Commandos of Liberation,-1,Explosives,0,0,0
+603,1970,11,15,Argentina,South America,Buenos Aires,Buenos Aires,-34.61768,-58.444435,Assassination,Police,Argentine Liberation Front (FAL),-1,Firearms,1,0,2
+604,1970,11,15,United States,North America,Florida,St. Petersburg,27.771185,-82.639319,Unarmed Assault,Police,Black Nationalists,12,Melee,0,2,2
+605,1970,11,16,United Kingdom,Western Europe,Northern Ireland,Belfast,54.607712,-5.95621,Armed Assault,Private Citizens & Property,Irish Republican Army (IRA),-1,Firearms,2,-1,-1
+606,1970,11,18,United States,North America,Florida,St. Petersburg,27.807403,-82.689767,Facility/Infrastructure Attack,Police,Left-Wing Militants,-99,Incendiary,0,0,0
+607,1970,11,20,Argentina,South America,Buenos Aires,Buenos Aires,-34.61768,-58.444435,Bombing/Explosion,Government (General),Peronist Armed Forces (FAP),-1,Explosives,0,0,0
+608,1970,11,20,Argentina,South America,Buenos Aires,Buenos Aires,-34.61768,-58.444435,Bombing/Explosion,Government (General),Peronist Armed Forces (FAP),4,Explosives,0,0,0
+609,1970,11,20,Argentina,South America,Buenos Aires,Buenos Aires,-34.61768,-58.444435,Armed Assault,Military,Peronist Armed Forces (FAP),2,Firearms,0,0,0
+610,1970,11,21,Turkey,Middle East & North Africa,Ankara,Ankara,39.930771,32.76754,Bombing/Explosion,Government (Diplomatic),Turkish People's Liberation Army,-1,Explosives,0,0,0
+611,1970,11,21,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Armed Assault,Business,Tupamaros (Uruguay),5,Firearms,-1,-1,-1
+612,1970,11,21,United States,North America,Oregon,Portland,45.511795,-122.675629,Bombing/Explosion,Government (General),Left-Wing Militants,-99,Explosives,0,1,1
+613,1970,11,21,United States,North America,Tennessee,Chattanooga,35.04644,-85.309464,Bombing/Explosion,Private Citizens & Property,Strikers,-99,Explosives,0,0,0
+614,1970,11,22,Philippines,Southeast Asia,Metropolitian Manila,Manila,14.596051,120.978666,Bombing/Explosion,Government (Diplomatic),Unknown,-1,Explosives,0,0,0
+615,1970,11,22,United States,North America,Florida,St. Petersburg,27.771185,-82.639319,Bombing/Explosion,Unknown,Left-Wing Militants,1,Explosives,0,0,0
+616,1970,11,23,United States,North America,Puerto Rico,San Juan,18.386932,-66.061127,Bombing/Explosion,Government (Diplomatic),Armed Commandos of Liberation,-1,Explosives,0,0,0
+617,1970,11,23,Turkey,Middle East & North Africa,Ankara,Ankara,39.930771,32.76754,Bombing/Explosion,Government (Diplomatic),Unknown,-1,Explosives,-1,-1,-1
+618,1970,11,25,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Airports & Aircraft,Jewish Defense League (JDL),-1,Explosives,0,0,0
+619,1970,11,25,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Tourists,Jewish Defense League (JDL),-1,Explosives,0,0,0
+620,1970,11,25,United States,North America,California,Berkeley,37.874043,-122.280022,Bombing/Explosion,Educational Institution,Student Radicals,-99,Explosives,0,0,0
+621,1970,11,25,United States,North America,Puerto Rico,San Juan,18.386932,-66.061127,Bombing/Explosion,Military,Armed Commandos of Liberation,-99,Explosives,0,0,0
+622,1970,11,28,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Facility/Infrastructure Attack,Business,Tupamaros (Uruguay),4,Incendiary,0,0,0
+623,1970,11,29,West Germany (FRG),Western Europe,Hesse,Frankfurt,50.11797,8.644191,Armed Assault,Military,Unknown,-1,Incendiary,0,0,0
+624,1970,11,29,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Armed Assault,Business,Tupamaros (Uruguay),5,Firearms,0,0,0
+625,1970,12,1,Spain,Western Europe,Gipuzcoa,Donostia-San Sebastian,43.291618,-1.977903,Hostage Taking (Kidnapping),Government (Diplomatic),Basque Fatherland and Freedom (ETA),-1,Unknown,0,0,0
+626,1970,12,1,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Bombing/Explosion,Business,Tupamaros (Uruguay),-1,Explosives,0,0,0
+627,1970,12,1,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Bombing/Explosion,Business,Tupamaros (Uruguay),5,Explosives,0,0,0
+628,1970,12,1,United States,North America,Oregon,Eugene,44.04483,-123.072606,Bombing/Explosion,Educational Institution,Student Radicals,-99,Explosives,0,0,0
+629,1970,12,7,Brazil,South America,Rio de Janeiro,Rio de Janeiro,-22.908278,-43.197026,Hostage Taking (Kidnapping),Government (Diplomatic),Popular Revolutionary Vanguard (VPR),-1,Unknown,1,0,2
+630,1970,12,11,United States,North America,Kansas,Lawrence,38.973065,-95.236534,Bombing/Explosion,Educational Institution,Unknown,-1,Explosives,0,3,3
+631,1970,12,11,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Bombing/Explosion,Business,Tupamaros (Uruguay),4,Explosives,0,0,0
+632,1970,12,13,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Bombing/Explosion,Business,Tupamaros (Uruguay),6,Explosives,0,0,0
+633,1970,12,14,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Business,Armed Revolutionary Independence Movement (MIRA),-1,Explosives,0,0,0
+634,1970,12,14,United States,North America,Connecticut,Bridgeport,41.18188,-73.191269,Facility/Infrastructure Attack,NGO,Armed Revolutionary Independence Movement (MIRA),-99,Incendiary,0,0,0
+635,1970,12,15,United States,North America,California,Isla Vista,34.41217,-119.85704,Bombing/Explosion,Business,Unknown,-1,Explosives,0,0,0
+636,1970,12,15,United States,North America,Connecticut,Storrs,41.807741,-72.25398,Facility/Infrastructure Attack,Military,Student Radicals,-99,Incendiary,0,0,0
+637,1970,12,16,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Bombing/Explosion,Educational Institution,Tupamaros (Uruguay),5,Explosives,0,0,0
+638,1970,12,16,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Assassination,Journalists & Media,Tupamaros (Uruguay),5,Firearms,0,0,0
+639,1970,12,16,United States,North America,Florida,Hollywood,26.011201,-80.14949,Facility/Infrastructure Attack,Government (General),Left-Wing Militants,-99,Incendiary,0,0,0
+640,1970,12,17,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Bombing/Explosion,Business,Tupamaros (Uruguay),5,Explosives,0,0,0
+641,1970,12,18,United States,North America,California,San Mateo,37.54703,-122.314834,Bombing/Explosion,Government (General),Left-Wing Militants,-99,Explosives,0,0,0
+642,1970,12,22,United States,North America,Wisconsin,Whitefish Bay,43.113655,-87.900289,Bombing/Explosion,Military,Left-Wing Militants,1,Explosives,0,0,0
+643,1970,12,23,United Kingdom,Western Europe,Northern Ireland,Belfast,54.607712,-5.95621,Armed Assault,Private Citizens & Property,Irish Republican Extremists,-1,Firearms,1,-1,-1
+644,1970,12,24,Turkey,Middle East & North Africa,Ankara,Ankara,39.930771,32.76754,Bombing/Explosion,Military,Turkish People's Liberation Army,-1,Explosives,0,0,0
+645,1970,12,27,United States,North America,Georgia,College Park,33.655968,-84.448957,Bombing/Explosion,Military,Left-Wing Militants,2,Explosives,0,1,1
+646,1970,12,29,Turkey,Middle East & North Africa,Ankara,Ankara,39.930771,32.76754,Armed Assault,Police,Turkish People's Liberation Army,-1,Firearms,0,1,1
+647,1970,12,29,Argentina,South America,Cordoba,Cordoba,-31.399301,-64.182129,Armed Assault,Business,Revolutionary Armed Forces- Argentina (FAR-A),4,Firearms,0,0,0
+648,1970,12,30,Spain,Western Europe,Burgos,Berberana,42.919882,-3.060073,Bombing/Explosion,Telecommunication,GAC,-1,Explosives,0,0,0
+649,1970,12,31,West Germany (FRG),Western Europe,Baden-Wurttemberg,Wiesloch,49.294642,8.69774,Armed Assault,Business,Socialist Patients' Collective (SPK),-1,Firearms,-1,-1,-1
+650,1970,12,31,United States,North America,California,El Monte,34.06857,-118.027606,Bombing/Explosion,Government (General),Left-Wing Militants,-99,Explosives,0,0,0
+651,1971,1,1,United States,North America,North Carolina,Mount Gilead,35.214905,-80.001234,Facility/Infrastructure Attack,Private Citizens & Property,White extremists,-99,Incendiary,0,0,0
+652,1971,1,4,West Germany (FRG),Western Europe,Bavaria,Munich,48.139126,11.580186,Bombing/Explosion,Police,Unknown,-1,Explosives,-1,-1,-1
+653,1971,1,5,United States,North America,California,Claremont,34.0961,-117.716404,Facility/Infrastructure Attack,Military,Student Radicals,-99,Incendiary,0,0,0
+654,1971,1,5,United States,North America,California,Oxnard,34.20034,-119.180439,Bombing/Explosion,Military,Left-Wing Militants,-99,Explosives,0,0,0
+655,1971,1,6,United States,North America,California,Pomona,34.05483,-117.750034,Facility/Infrastructure Attack,NGO,Black Nationalists,-99,Incendiary,0,0,0
+656,1971,1,7,Turkey,Middle East & North Africa,Malatya,Malatya,38.355879,38.296474,Bombing/Explosion,Military,Turkish People's Liberation Army,-1,Explosives,0,0,0
+657,1971,1,8,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Hostage Taking (Kidnapping),Government (Diplomatic),Tupamaros (Uruguay),4,Unknown,0,0,0
+658,1971,1,8,West Germany (FRG),Western Europe,Bavaria,Munich,48.139126,11.580186,Bombing/Explosion,Police,Unknown,-1,Explosives,-1,-1,-1
+659,1971,1,8,United States,North America,District of Columbia,Washington,38.908642,-77.015381,Bombing/Explosion,Government (Diplomatic),Jewish Defense League (JDL),-1,Explosives,0,0,0
+660,1971,1,9,United States,North America,California,Pomona,34.038254,-117.752109,Facility/Infrastructure Attack,Educational Institution,Black Nationalists,-99,Incendiary,0,0,0
+661,1971,1,9,United States,North America,California,Pomona,34.055103,-117.749991,Facility/Infrastructure Attack,Educational Institution,Black Nationalists,-99,Incendiary,0,0,0
+662,1971,1,11,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Assassination,Police,Tupamaros (Uruguay),4,Firearms,1,0,2
+663,1971,1,11,Turkey,Middle East & North Africa,Ankara,Ankara,39.930771,32.76754,Armed Assault,Business,Turkish People's Liberation Army,-1,Firearms,-1,-1,-1
+664,1971,1,11,United States,North America,California,Pomona,34.055103,-117.749991,Facility/Infrastructure Attack,Educational Institution,Black Nationalists,-99,Incendiary,0,0,0
+665,1971,1,12,United States,North America,California,Rolling Hills Estates,33.78359,-118.353879,Facility/Infrastructure Attack,Government (General),Left-Wing Militants,-99,Incendiary,0,0,0
+666,1971,1,13,United States,North America,California,San Francisco,37.755363,-122.443352,Armed Assault,Police,Black Liberation Army,-1,Firearms,1,0,2
+667,1971,1,13,West Germany (FRG),Western Europe,Bavaria,Munich,48.139126,11.580186,Facility/Infrastructure Attack,Police,Unknown,-1,Incendiary,-1,-1,-1
+668,1971,1,15,Zambia,Sub-Saharan Africa,Unknown,Unknown,0.0,0.0,Hostage Taking (Kidnapping),Government (General),Revolutionary Committee of Mozambique (COREMO),-1,Unknown,1,0,2
+669,1971,1,15,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Military,Left-Wing Militants,1,Explosives,0,2,2
+670,1971,1,15,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Military,Left-Wing Militants,-99,Explosives,0,0,0
+671,1971,1,16,West Germany (FRG),Western Europe,Bavaria,Munich,48.139126,11.580186,Bombing/Explosion,Government (Diplomatic),Unknown,-1,Explosives,-1,-1,-1
+672,1971,1,17,United States,North America,New York,New York City,40.697132,-73.931351,Facility/Infrastructure Attack,Government (Diplomatic),Unknown,-1,Incendiary,0,0,0
+673,1971,1,19,United States,North America,California,San Francisco,37.755363,-122.443352,Bombing/Explosion,Police,Black Nationalists,-99,Explosives,0,0,0
+674,1971,1,19,United States,North America,California,San Francisco,37.755363,-122.443352,Bombing/Explosion,Government (General),Left-Wing Militants,-99,Explosives,0,0,0
+675,1971,1,19,United States,North America,Ohio,Cleveland,41.479561,-81.675461,Facility/Infrastructure Attack,Private Citizens & Property,Strikers,-99,Incendiary,0,0,0
+676,1971,1,21,Guatemala,Central America & Caribbean,Unknown,Unknown,0.0,0.0,Armed Assault,Educational Institution,Unknown,-1,Firearms,-1,-1,-1
+677,1971,1,22,Turkey,Middle East & North Africa,Ankara,Ankara,39.930771,32.76754,Bombing/Explosion,Government (Diplomatic),Turkish People's Liberation Army,-1,Explosives,0,0,0
+678,1971,1,22,Turkey,Middle East & North Africa,Ankara,Ankara,39.930771,32.76754,Bombing/Explosion,Military,Unknown,-1,Explosives,0,0,0
+679,1971,1,22,Ethiopia,Sub-Saharan Africa,Amhara,Bahar Dar,11.583513,37.397019,Hijacking,Airports & Aircraft,Eritrean Liberation Front,4,Unknown,0,0,0
+680,1971,1,24,Argentina,South America,Buenos Aires,Banfield,-34.68631,-58.528473,Armed Assault,Business,Peronist Armed Forces (FAP),3,Firearms,0,0,0
+681,1971,1,24,United States,North America,New York,New York City,40.697132,-73.931351,Armed Assault,Police,Black Liberation Army,1,Melee,1,1,3
+682,1971,1,25,Turkey,Middle East & North Africa,Ankara,Ankara,39.930771,32.76754,Facility/Infrastructure Attack,Government (Diplomatic),Turkish People's Liberation Army,2,Incendiary,0,0,0
+683,1971,1,25,Turkey,Middle East & North Africa,Ankara,Ankara,39.930771,32.76754,Bombing/Explosion,Military,Turkish People's Liberation Army,-1,Explosives,-1,-1,-1
+684,1971,1,26,United States,North America,Florida,West Palm Beach,26.714388,-80.052689,Bombing/Explosion,Educational Institution,Black Nationalists,-99,Explosives,0,0,0
+685,1971,1,27,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Armed Assault,Educational Institution,Tupamaros (Uruguay),4,Firearms,0,0,0
+686,1971,1,27,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Armed Assault,Journalists & Media,Tupamaros (Uruguay),4,Firearms,0,0,0
+687,1971,1,27,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Armed Assault,Educational Institution,Tupamaros (Uruguay),5,Firearms,0,0,0
+688,1971,1,27,United Kingdom,Western Europe,Northern Ireland,Belfast,54.607712,-5.95621,Assassination,Private Citizens & Property,Irish Republican Army (IRA),-1,Firearms,1,-1,-1
+689,1971,1,28,Dominican Republic,Central America & Caribbean,National,Santo Domingo,18.456792,-69.951164,Armed Assault,Educational Institution,Tony El Pelou Band,8,Firearms,0,0,0
+690,1971,1,28,Dominican Republic,Central America & Caribbean,National,Santo Domingo,18.456792,-69.951164,Armed Assault,Journalists & Media,Tony El Pelou Band,8,Firearms,0,0,0
+691,1971,1,29,West Germany (FRG),Western Europe,Bavaria,Munich,48.139126,11.580186,Bombing/Explosion,Government (General),Unknown,-1,Explosives,0,0,0
+692,1971,1,29,Turkey,Middle East & North Africa,Ankara,Ankara,39.930771,32.76754,Bombing/Explosion,Government (General),Turkish People's Liberation Army,-1,Explosives,-1,-1,-1
+693,1971,1,29,United States,North America,California,Los Angeles,34.097866,-118.407379,Bombing/Explosion,Government (General),Chicano Liberation Front,-1,Explosives,1,0,2
+694,1971,1,29,Argentina,South America,Cordoba,Cordoba,-31.399301,-64.182129,Bombing/Explosion,Business,Revolutionary Armed Forces- Argentina (FAR-A),-1,Explosives,-1,-1,-1
+695,1971,2,2,Turkey,Middle East & North Africa,Izmir,Izmir,38.395649,27.135641,Bombing/Explosion,Government (General),Turkish People's Liberation Army,-1,Explosives,-1,-1,-1
+696,1971,2,2,Turkey,Middle East & North Africa,Izmir,Izmir,38.395649,27.135641,Bombing/Explosion,Military,Turkish People's Liberation Army,-1,Explosives,0,0,0
+697,1971,2,3,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Hostage Taking (Kidnapping),Business,Tupamaros (Uruguay),4,Unknown,-1,-1,-1
+698,1971,2,4,United States,North America,California,Oakland,37.791927,-122.225906,Bombing/Explosion,Military,BAY Bombers,-1,Explosives,-1,-1,-1
+699,1971,2,4,United States,North America,North Carolina,Charlotte,35.2225,-80.837539,Facility/Infrastructure Attack,Government (General),White extremists,-99,Incendiary,0,0,0
+700,1971,2,5,United States,North America,California,Santa Barbara,34.419255,-119.698869,Facility/Infrastructure Attack,Military,Unknown,-1,Incendiary,0,0,0
+701,1971,2,6,West Germany (FRG),Western Europe,Hesse,Frankfurt,50.11797,8.644191,Bombing/Explosion,Educational Institution,Unknown,-1,Explosives,-1,-1,-1
+702,1971,2,6,United Kingdom,Western Europe,Northern Ireland,Belfast,54.607712,-5.95621,Assassination,Military,Irish Republican Army (IRA),-1,Firearms,1,-1,-1
+703,1971,2,7,United Kingdom,Western Europe,Northern Ireland,Nutt's Corner,54.63797,-6.14485,Assassination,Private Citizens & Property,Irish Republican Extremists,-1,Firearms,1,-1,-1
+704,1971,2,8,Turkey,Middle East & North Africa,Ankara,Ankara,39.930771,32.76754,Bombing/Explosion,Military,Turkish People's Liberation Army,1,Explosives,0,0,0
+705,1971,2,8,Iran,Middle East & North Africa,Gilan,Unknown,37.146795,49.536102,Armed Assault,Police,Unknown,-1,Firearms,-1,-1,-1
+706,1971,2,9,United Kingdom,Western Europe,Northern Ireland,Trillick,54.452223,-7.486124,Bombing/Explosion,Military,Irish Republican Army (IRA),-1,Explosives,5,-1,-1
+707,1971,2,9,United States,North America,Florida,West Palm Beach,26.714388,-80.052689,Bombing/Explosion,Educational Institution,Black Nationalists,-99,Explosives,0,0,0
+708,1971,2,10,Turkey,Middle East & North Africa,Ankara,Ankara,39.930771,32.76754,Bombing/Explosion,Private Citizens & Property,Turkish People's Liberation Army,-1,Explosives,0,0,0
+709,1971,2,10,Sweden,Western Europe,Vastra Gotaland,Gothenburg,57.696994,11.9865,Armed Assault,Government (Diplomatic),Croatian Nationalists,2,Firearms,0,0,0
+710,1971,2,10,United States,North America,Ohio,Akron,41.084195,-81.514059,Bombing/Explosion,Private Citizens & Property,Neo-Nazi extremists,1,Explosives,0,0,0
+711,1971,2,11,Venezuela,South America,Caracas,Caracas,10.482834,-66.962128,Hostage Taking (Kidnapping),Business,Movement of the Revolutionary Left (MIR) (Venezuela),3,Unknown,0,0,0
+712,1971,2,11,Turkey,Middle East & North Africa,Ankara,Ankara,39.930771,32.76754,Bombing/Explosion,Government (Diplomatic),Unknown,-1,Explosives,-1,-1,-1
+713,1971,2,12,Philippines,Southeast Asia,Metropolitian Manila,Manila,14.596051,120.978666,Bombing/Explosion,Government (Diplomatic),Unknown,-1,Explosives,-1,-1,-1
+714,1971,2,12,Turkey,Middle East & North Africa,Ankara,Ankara,39.930771,32.76754,Bombing/Explosion,Private Citizens & Property,Unknown,-1,Explosives,0,0,0
+715,1971,2,12,United States,North America,California,Santa Cruz,36.974025,-122.030954,Facility/Infrastructure Attack,Military,Unknown,-1,Incendiary,0,0,0
+716,1971,2,13,United States,North America,Georgia,Atlanta,33.764496,-84.432083,Bombing/Explosion,Military,Left-Wing Militants,2,Explosives,0,0,0
+717,1971,2,14,United States,North America,Pennsylvania,Bristol,40.097625,-74.857269,Facility/Infrastructure Attack,Government (General),Left-Wing Militants,5,Incendiary,0,0,0
+718,1971,2,15,Turkey,Middle East & North Africa,Ankara,Ankara,39.930771,32.76754,Hostage Taking (Kidnapping),Military,Turkish People's Liberation Army,-1,Unknown,0,0,0
+719,1971,2,15,United Kingdom,Western Europe,Northern Ireland,Belfast,54.607712,-5.95621,Assassination,Military,Irish Republican Army (IRA),-1,Firearms,1,-1,-1
+720,1971,2,16,United States,North America,Puerto Rico,Carolina,18.442164,-66.026298,Bombing/Explosion,Business,Puerto Rican Nationalists,-99,Explosives,0,0,0
+721,1971,2,16,United States,North America,Puerto Rico,Carolina,18.442164,-66.026298,Bombing/Explosion,Business,Puerto Rican Nationalists,-99,Explosives,0,0,0
+722,1971,2,16,United States,North America,Puerto Rico,San Juan,18.386932,-66.061127,Bombing/Explosion,Military,Puerto Rican Nationalists,-99,Explosives,0,0,0
+723,1971,2,16,United States,North America,Puerto Rico,San Juan,18.386932,-66.061127,Facility/Infrastructure Attack,Business,Puerto Rican Nationalists,-99,Incendiary,0,0,0
+724,1971,2,16,United States,North America,Puerto Rico,Rio Piedras,18.386932,-66.061127,Facility/Infrastructure Attack,Business,Puerto Rican Nationalists,-99,Incendiary,0,0,0
+725,1971,2,17,Turkey,Middle East & North Africa,Ankara,Ankara,39.930771,32.76754,Bombing/Explosion,Military,Turkish People's Liberation Army,-1,Explosives,0,0,0
+726,1971,2,17,Turkey,Middle East & North Africa,Istanbul,Istanbul,41.106178,28.689863,Bombing/Explosion,Educational Institution,Unknown,-1,Explosives,-1,-1,-1
+727,1971,2,19,Turkey,Middle East & North Africa,Istanbul,Istanbul,41.106178,28.689863,Bombing/Explosion,Military,Turkish People's Liberation Army,-1,Explosives,0,0,0
+728,1971,2,20,Costa Rica,Central America & Caribbean,San Jose,San Jose,9.933333,-84.083333,Hostage Taking (Kidnapping),Private Citizens & Property,Unknown,-1,Unknown,-1,-1,-1
+729,1971,2,20,Turkey,Middle East & North Africa,Ankara,Ankara,39.930771,32.76754,Bombing/Explosion,Government (Diplomatic),Turkish People's Liberation Army,-1,Explosives,0,0,0
+730,1971,2,20,United States,North America,Florida,Miami,25.774591,-80.214195,Armed Assault,Police,Black Afro Militant Movement,-99,Firearms,1,0,2
+731,1971,2,21,Venezuela,South America,Caracas,Caracas,10.482834,-66.962128,Hostage Taking (Kidnapping),Business,Armed Forces of National Liberation- Venezuela (FALN),4,Unknown,0,0,0
+732,1971,2,21,Turkey,Middle East & North Africa,Ankara,ANkara,39.930771,32.76754,Armed Assault,Government (Diplomatic),Unknown,-1,Incendiary,0,0,0
+733,1971,2,22,United States,North America,California,Los Angeles,34.097866,-118.407379,Bombing/Explosion,Business,Chicano Liberation Front,-99,Explosives,0,0,0
+734,1971,2,26,United Kingdom,Western Europe,Northern Ireland,Belfast,54.607712,-5.95621,Assassination,Police,Irish Republican Army (IRA),-1,Firearms,2,-1,-1
+735,1971,2,26,United States,North America,Hawaii,Honolulu,21.3,-157.818968,Facility/Infrastructure Attack,Military,Student Radicals,-99,Incendiary,0,0,0
+736,1971,2,27,United States,North America,California,Berkeley,37.874043,-122.280022,Bombing/Explosion,Business,Unknown,-1,Explosives,0,0,0
+737,1971,2,27,United States,North America,Puerto Rico,Rio Piedras,18.386932,-66.061127,Bombing/Explosion,Government (General),Puerto Rican Nationalists,-99,Explosives,0,0,0
+738,1971,3,0,Philippines,Southeast Asia,Pampanga,Angeles,15.153002,120.591942,Bombing/Explosion,Business,Unknown,-1,Explosives,-1,-1,-1
+739,1971,3,0,Philippines,Southeast Asia,Unknown,Tarlas,0.0,0.0,Bombing/Explosion,Military,New People's Army (NPA),-1,Explosives,0,0,0
+740,1971,3,1,Venezuela,South America,Caracas,Caracas,10.482834,-66.962128,Hostage Taking (Kidnapping),Business,Armed Forces of National Liberation- Venezuela (FALN),3,Unknown,0,0,0
+741,1971,3,1,United States,North America,California,Vernon,34.097866,-118.407379,Bombing/Explosion,Business,Chicano Liberation Front,-1,Explosives,0,0,0
+742,1971,3,1,United States,North America,District of Columbia,Washington,38.908642,-77.015381,Bombing/Explosion,Government (General),"Weather Underground, Weathermen",-1,Explosives,0,0,0
+743,1971,3,1,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Educational Institution,Puerto Rican Resistance Movement,-1,Explosives,0,0,0
+744,1971,3,2,United States,North America,New York,New York City,40.697132,-73.931351,Facility/Infrastructure Attack,Government (Diplomatic),Unknown,-1,Incendiary,0,0,0
+745,1971,3,3,United States,North America,California,Santa Barbara,34.419255,-119.698869,Bombing/Explosion,Utilities,Unknown,-1,Explosives,0,0,0
+746,1971,3,3,United States,North America,California,Berkeley,37.874043,-122.280022,Bombing/Explosion,Business,Unknown,-1,Explosives,0,0,0
+747,1971,3,4,Turkey,Middle East & North Africa,Ankara,Ankara,39.930771,32.76754,Hostage Taking (Kidnapping),Military,Turkish People's Liberation Army,5,Unknown,0,0,0
+748,1971,3,5,United States,North America,Hawaii,Honolulu,21.3,-157.818968,Facility/Infrastructure Attack,Educational Institution,Student Radicals,-99,Incendiary,0,0,0
+749,1971,3,6,United States,North America,Texas,Texarkana,33.42558,-94.048254,Facility/Infrastructure Attack,Religious Figures/Institutions,Unknown,-99,Incendiary,0,0,0
+750,1971,3,6,United States,North America,Texas,Texarkana,33.42558,-94.048254,Facility/Infrastructure Attack,Religious Figures/Institutions,Unknown,-99,Incendiary,0,0,0
+751,1971,3,7,United States,North America,Texas,Texarkana,33.42558,-94.048254,Facility/Infrastructure Attack,Religious Figures/Institutions,Unknown,-99,Incendiary,0,0,0
+752,1971,3,7,United States,North America,Texas,Texarkana,33.42558,-94.048254,Facility/Infrastructure Attack,Religious Figures/Institutions,Unknown,-99,Incendiary,0,0,0
+753,1971,3,8,United Kingdom,Western Europe,Northern Ireland,Belfast,54.607712,-5.95621,Assassination,Terrorists/Non-State Militia,Official Irish Republican Army (OIRA),-1,Firearms,1,-1,-1
+754,1971,3,8,United States,North America,Missouri,St. Louis,38.62774,-90.199514,Bombing/Explosion,Government (General),Unknown,-1,Explosives,0,0,0
+755,1971,3,8,United States,North America,Missouri,St. Louis,38.62774,-90.199514,Bombing/Explosion,Military,Unknown,-1,Explosives,0,10,10
+756,1971,3,9,United States,North America,Colorado,Fort Lupton,40.079609,-104.812912,Bombing/Explosion,Police,Unknown,-1,Explosives,0,0,0
+757,1971,3,9,West Germany (FRG),Western Europe,Bavaria,Munich,48.139126,11.580186,Armed Assault,Business,Baader-Meinhof Group,3,Firearms,-1,-1,-1
+758,1971,3,10,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Hostage Taking (Kidnapping),Government (General),Tupamaros (Uruguay),4,Unknown,-1,-1,-1
+759,1971,3,10,West Germany (FRG),Western Europe,Baden-Wurttemberg,Heidelberg,49.4019,8.680285,Bombing/Explosion,Government (General),Socialist Patients' Collective (SPK),-1,Explosives,-1,-1,-1
+760,1971,3,10,United Kingdom,Western Europe,Northern Ireland,Belfast,54.607712,-5.95621,Assassination,Military,Irish Republican Army (IRA),-1,Firearms,1,-1,-1
+761,1971,3,11,United States,North America,Texas,Houston,29.813822,-95.365295,Bombing/Explosion,Private Citizens & Property,Ku Klux Klan,4,Explosives,0,0,0
+762,1971,3,12,United States,North America,Oregon,Portland,45.511795,-122.675629,Bombing/Explosion,Police,Left-Wing Militants,-99,Explosives,0,0,0
+763,1971,3,14,Turkey,Middle East & North Africa,Istanbul,Istanbul,41.106178,28.689863,Bombing/Explosion,Business,Turkish People's Liberation Army,-1,Explosives,-1,-1,-1
+764,1971,3,14,Turkey,Middle East & North Africa,Istanbul,Istanbul,41.106178,28.689863,Bombing/Explosion,Journalists & Media,Turkish People's Liberation Army,-1,Explosives,-1,-1,-1
+765,1971,3,15,Netherlands,Western Europe,South Holland,Rotterdam,51.924216,4.481776,Bombing/Explosion,Utilities,Popular Front for the Liberation of Palestine (PFLP),-1,Explosives,0,0,0
+766,1971,3,15,Uruguay,South America,Montevideo,Montevideo,-34.891151,-56.187214,Armed Assault,Journalists & Media,Tupamaros (Uruguay),4,Firearms,0,0,0
+767,1971,3,15,United States,North America,California,San Mateo,37.54703,-122.314834,Facility/Infrastructure Attack,Government (General),Left-Wing Militants,-99,Incendiary,0,0,0
+768,1971,3,16,United States,North America,California,San Francisco,37.755363,-122.443352,Bombing/Explosion,Government (General),"Weather Underground, Weathermen",-1,Explosives,0,0,0
+769,1971,3,17,United States,North America,New York,Ithaca,42.455233,-76.475847,Facility/Infrastructure Attack,Military,Student Radicals,-99,Incendiary,0,0,0
+770,1971,3,18,Spain,Western Europe,Santa Cruz de Tenerife,San Andres,28.505025,-16.192648,Bombing/Explosion,Business,Catalan Liberation Front (FAC),-1,Explosives,0,0,0
+771,1971,3,18,United States,North America,Florida,Jacksonville,30.33138,-81.655799,Bombing/Explosion,Military,Left-Wing Militants,-99,Explosives,0,0,0
+772,1971,3,19,West Germany (FRG),Western Europe,Berlin,West Berlin,52.50153,13.401851,Facility/Infrastructure Attack,Business,Black Cells,-1,Incendiary,-1,-1,-1
+773,1971,3,19,United States,North America,New York,New York City,40.697132,-73.931351,Facility/Infrastructure Attack,Business,Armed Revolutionary Independence Movement (MIRA),2,Incendiary,0,0,0
+774,1971,3,21,United States,North America,Massachusetts,Medford,42.407484,-71.119023,Facility/Infrastructure Attack,Educational Institution,Student Radicals,-99,Incendiary,0,0,0
+775,1971,3,23,United States,North America,California,Mill Valley,37.906032,-122.548169,Bombing/Explosion,Business,"Weather Underground, Weathermen",-1,Explosives,0,0,0
+776,1971,3,23,United States,North America,Michigan,Detroit,42.359139,-83.066546,Bombing/Explosion,Educational Institution,Student Radicals,-99,Explosives,0,0,0
+777,1971,3,23,United States,North America,California,Thousand Oaks,34.225529,-118.878911,Facility/Infrastructure Attack,Business,Left-Wing Militants,-99,Incendiary,0,0,0
+778,1971,3,25,Italy,Western Europe,Lombardy,Milan,45.469212,9.174508,Bombing/Explosion,Government (Diplomatic),Unknown,-1,Explosives,0,0,0
+779,1971,3,27,Turkey,Middle East & North Africa,Ankara,Ankara,39.930771,32.76754,Armed Assault,Private Citizens & Property,Unknown,-1,Incendiary,0,0,0
+780,1971,3,27,United States,North America,Maryland,Baltimore,39.308342,-76.616104,Bombing/Explosion,Utilities,Unknown,-1,Explosives,0,0,0
+781,1971,3,28,Argentina,South America,Cordoba,Cordoba,-31.399301,-64.182129,Bombing/Explosion,Journalists & Media,Ejercito Revolucionaria del Pueblo (ERP) (Argentina),5,Explosives,0,0,0
+782,1971,3,30,Turkey,Middle East & North Africa,Izmir,Izmir,38.395649,27.135641,Bombing/Explosion,Educational Institution,Unknown,-1,Explosives,-1,-1,-1
+783,1971,3,30,United States,North America,California,San Francisco,37.755363,-122.443352,Bombing/Explosion,Police,Black Liberation Army,-1,Explosives,0,0,0
+784,1971,3,30,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Private Citizens & Property,Secret Cuban Government,-1,Explosives,0,0,0
+785,1971,3,30,Philippines,Southeast Asia,Metropolitian Manila,Manila,14.596051,120.978666,Hijacking,Airports & Aircraft,Students,6,Firearms,0,0,0
+786,1971,3,30,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Private Citizens & Property,Jewish Defense League (JDL),-99,Explosives,0,0,0
+787,1971,3,31,United States,North America,Colorado,Denver,39.758968,-104.876305,Facility/Infrastructure Attack,Military,Left-Wing Militants,-99,Incendiary,0,0,0
+788,1971,4,0,Iran,Middle East & North Africa,Gilan,Bandar Anzali,37.474249,49.458725,Unknown,Military,Unknown,-1,Unknown,3,0,6
+789,1971,4,0,Iran,Middle East & North Africa,Esfahan,Isfahan,32.65246,51.67462,Bombing/Explosion,Military,Unknown,-1,Explosives,-1,-1,-1
+790,1971,4,0,Iran,Middle East & North Africa,Tehran,Tehran,35.724533,51.40519,Armed Assault,Police,Unknown,-1,Firearms,-1,-1,-1
+791,1971,4,1,United States,North America,California,Los Angeles,34.097866,-118.407379,Bombing/Explosion,Government (General),Unknown,-1,Explosives,-1,-1,-1
+792,1971,4,2,Jordan,Middle East & North Africa,Unknown,Unknown,0.0,0.0,Bombing/Explosion,Utilities,Popular Front for the Liberation of Palestine (PFLP),-1,Explosives,0,0,0
+793,1971,4,2,Spain,Western Europe,Madrid,Madrid,40.465595,-3.696263,Bombing/Explosion,Journalists & Media,Catalan Liberation Front (FAC),-1,Explosives,0,0,0
+794,1971,4,2,United States,North America,California,Riverside,33.953349,-117.396156,Armed Assault,Police,Black Nationalists,3,Firearms,2,0,4
+795,1971,4,3,Spain,Western Europe,Barcelona,Barcelona,41.400635,2.150913,Bombing/Explosion,Educational Institution,Catalan Liberation Front (FAC),-1,Explosives,0,0,0
+796,1971,4,3,United States,North America,California,Los Angeles,34.097866,-118.407379,Facility/Infrastructure Attack,Business,Unknown,-1,Incendiary,0,0,0
+797,1971,4,3,United States,North America,Michigan,Ypsilanti,42.24088,-83.613089,Hostage Taking (Kidnapping),Private Citizens & Property,Ku Klux Klan,5,Firearms,0,1,1
+798,1971,4,3,United States,North America,Georgia,Sylvester,31.530345,-83.835349,Facility/Infrastructure Attack,Government (General),Left-Wing Militants,-99,Incendiary,0,0,0
+799,1971,4,5,United States,North America,California,Ben Lomond,37.089185,-122.086756,Bombing/Explosion,Business,Left-Wing Militants,-99,Explosives,0,0,0
+800,1971,4,5,United States,North America,Puerto Rico,San Juan,18.386932,-66.061127,Facility/Infrastructure Attack,Business,Unknown,-99,Incendiary,0,0,0
+801,1971,4,5,United States,North America,Puerto Rico,San Juan,18.386932,-66.061127,Facility/Infrastructure Attack,Business,Unknown,-99,Incendiary,0,0,0
+802,1971,4,6,Turkey,Middle East & North Africa,Ankara,Ankara,39.930771,32.76754,Bombing/Explosion,Government (General),RYF,-1,Explosives,0,0,0
+803,1971,4,6,Turkey,Middle East & North Africa,Ankara,Ankara,39.930771,32.76754,Bombing/Explosion,Military,Turkish People's Liberation Army,-1,Explosives,-1,-1,-1
+804,1971,4,6,Turkey,Middle East & North Africa,Ankara,Ankara,39.930771,32.76754,Bombing/Explosion,Military,Turkish People's Liberation Army,-1,Explosives,0,0,0
+805,1971,4,6,United States,North America,California,Los Angeles,34.097866,-118.407379,Bombing/Explosion,Business,Unknown,-1,Explosives,0,0,0
+806,1971,4,6,United States,North America,California,San Jose,37.338475,-121.885794,Bombing/Explosion,Business,Unknown,-1,Explosives,0,0,0
+807,1971,4,7,Iran,Middle East & North Africa,Tehran,Tehran,35.724533,51.40519,Assassination,Military,Unknown,-1,Firearms,1,0,2
+808,1971,4,7,Sweden,Western Europe,Stockholm,Stockholm,59.332788,18.064488,Assassination,Government (Diplomatic),Croatian Nationalists,-1,Unknown,1,2,4
+809,1971,4,8,United States,North America,California,Fresno,36.736419,-119.789196,Bombing/Explosion,Government (General),Chicano Liberation Front,-99,Explosives,0,0,0
+810,1971,4,11,Turkey,Middle East & North Africa,Ankara,Ankara,39.930771,32.76754,Bombing/Explosion,Military,RYF,-1,Explosives,-1,-1,-1
+811,1971,4,11,Argentina,South America,Buenos Aires,La Plata,-34.921295,-57.954333,Armed Assault,Police,Peronist Armed Forces (FAP),12,Firearms,3,0,6
+812,1971,4,12,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Government (Diplomatic),Black Revolutionary Assault Team,-1,Explosives,0,0,0
+813,1971,4,14,United States,North America,California,Palo Alto,37.424305,-122.143913,Facility/Infrastructure Attack,Educational Institution,Student Radicals,2,Incendiary,0,0,0
+814,1971,4,14,United States,North America,Puerto Rico,San Juan,18.386932,-66.061127,Bombing/Explosion,Business,Puerto Rican Nationalists,-99,Explosives,0,0,0
+815,1971,4,15,United States,North America,California,Los Angeles,34.097866,-118.407379,Bombing/Explosion,Government (General),Left-Wing Militants,-99,Explosives,0,0,0
+816,1971,4,17,United States,North America,New York,New York City,40.697132,-73.931351,Assassination,Violent Political Party,Black Panthers,8,Firearms,1,0,2
+817,1971,4,19,United States,North America,New York,New York City,40.697132,-73.931351,Armed Assault,Police,Black Panthers,3,Firearms,0,2,2
+818,1971,4,19,Spain,Western Europe,Barcelona,Barcelona,41.400635,2.150913,Bombing/Explosion,Transportation,Catalan Liberation Front (FAC),-1,Explosives,0,0,0
+819,1971,4,19,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Tourists,Unknown,-1,Explosives,0,0,0
+820,1971,4,19,United States,North America,Puerto Rico,San Juan,18.386932,-66.061127,Bombing/Explosion,Business,Armed Commandos of Liberation,-99,Explosives,3,0,6
+821,1971,4,20,United States,North America,California,Fresno,36.740685,-119.785734,Bombing/Explosion,Military,Left-Wing Militants,-99,Explosives,0,0,0
+822,1971,4,20,United States,North America,California,Berkeley,37.874043,-122.280022,Bombing/Explosion,Business,Left-Wing Militants,-99,Explosives,0,0,0
+823,1971,4,20,United States,North America,Minnesota,Richfield,44.883175,-93.283006,Facility/Infrastructure Attack,Government (General),Left-Wing Militants,-99,Incendiary,0,0,0
+824,1971,4,22,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Business,Jewish Defense League (JDL),-1,Explosives,0,0,0
+825,1971,4,23,United States,North America,California,Fresno,36.740685,-119.785734,Bombing/Explosion,Government (General),Chicano Liberation Front,-1,Explosives,0,0,0
+826,1971,4,23,United States,North America,California,Palo Alto,37.424305,-122.143913,Bombing/Explosion,Educational Institution,Unknown,-1,Explosives,0,0,0
+827,1971,4,23,United States,North America,California,Los Gatos,37.235807,-121.962416,Facility/Infrastructure Attack,Government (General),Left-Wing Militants,-99,Incendiary,0,0,0
+828,1971,4,23,United States,North America,California,Mill Valley,37.906032,-122.545048,Bombing/Explosion,Business,"Weather Underground, Weathermen",1,Explosives,0,0,0
+829,1971,4,23,United States,North America,California,Palo Alto,37.424305,-122.143913,Armed Assault,Utilities,Student Radicals,-99,Firearms,0,0,0
+830,1971,4,24,United States,North America,Ohio,Youngstown,41.0981,-80.650789,Bombing/Explosion,Military,Left-Wing Militants,-99,Explosives,0,0,0
+831,1971,4,25,United States,North America,California,Claremont,34.0961,-117.716404,Facility/Infrastructure Attack,Military,Student Radicals,-99,Incendiary,0,0,0
+832,1971,4,25,United States,North America,California,Claremont,34.097718,-117.70945,Facility/Infrastructure Attack,Educational Institution,Student Radicals,-99,Incendiary,0,0,0
+833,1971,4,26,United States,North America,California,Claremont,34.106067,-117.716404,Facility/Infrastructure Attack,Educational Institution,Student Radicals,-99,Incendiary,0,0,0
+834,1971,4,27,United States,North America,California,Mill Valley,37.906032,-122.545048,Bombing/Explosion,Educational Institution,Left-wing extremists,1,Explosives,0,0,0
+835,1971,4,27,United States,North America,California,Los Angeles,34.097866,-118.407379,Bombing/Explosion,Business,Left-Wing Militants,-99,Explosives,0,0,0
+836,1971,4,28,United States,North America,California,Oakland,37.791927,-122.225906,Bombing/Explosion,Business,Left-Wing Militants,2,Explosives,0,0,0
+837,1971,4,28,United States,North America,California,Los Angeles,34.097866,-118.407379,Bombing/Explosion,Business,Chicano Liberation Front,-99,Explosives,0,0,0
+838,1971,4,29,Argentina,South America,Buenos Aires,Pilar,-34.458721,-58.90725,Armed Assault,Military,Revolutionary Armed Forces- Argentina (FAR-A),6,Firearms,1,0,2
+839,1971,4,29,United States,North America,California,Montebello,34.097866,-118.407379,Bombing/Explosion,Business,Chicano Liberation Front,-99,Explosives,0,0,0
+840,1971,4,29,United States,North America,California,Los Angeles,34.097866,-118.407379,Bombing/Explosion,Business,Chicano Liberation Front,-99,Explosives,0,0,0
+841,1971,4,29,United States,North America,California,Los Gatos,37.235807,-121.962416,Facility/Infrastructure Attack,Business,Left-Wing Militants,-99,Incendiary,0,0,0
+842,1971,4,29,United States,North America,California,Berkeley,37.874043,-122.280022,Assassination,Military,Left-Wing Militants,1,Melee,1,0,2
+843,1971,4,30,United States,North America,California,San Jose,37.338475,-121.885794,Facility/Infrastructure Attack,Military,Left-Wing Militants,-99,Incendiary,0,0,0
+844,1971,4,30,United States,North America,Massachusetts,Braintree,42.206391,-71.004817,Bombing/Explosion,Government (General),Left-Wing Militants,-99,Explosives,0,0,0
+845,1971,5,1,United States,North America,California,Santa Cruz,36.974025,-122.030954,Bombing/Explosion,Business,People's Revolutionary Party,-1,Explosives,0,0,0
+846,1971,5,2,Spain,Western Europe,Navarre,Pamplona,42.815372,-1.653616,Bombing/Explosion,Journalists & Media,GAC,-1,Explosives,-1,-1,-1
+847,1971,5,4,Bolivia,South America,La Paz,La Paz,-16.509317,-68.10434,Hostage Taking (Kidnapping),Business,Ejercito de Liberacion Nacional (Bolivia),4,Unknown,-1,-1,-1
+848,1971,5,4,Turkey,Middle East & North Africa,Ankara,Ankara,39.930771,32.76754,Bombing/Explosion,Military,Turkish People's Liberation Army,-1,Explosives,0,0,0
+849,1971,5,4,United States,North America,California,Chico,39.728352,-121.841985,Facility/Infrastructure Attack,Military,Left-Wing Militants,-99,Incendiary,0,0,0
+850,1971,5,4,United States,North America,California,Fresno,36.740685,-119.785734,Bombing/Explosion,Telecommunication,Chicano Radicals,-99,Explosives,0,0,0
+851,1971,5,4,United States,North America,California,San Bruno,37.625511,-122.432556,Facility/Infrastructure Attack,Business,Left-Wing Militants,2,Incendiary,0,0,0
+852,1971,5,5,Iran,Middle East & North Africa,Tehran,Tehran,35.724533,51.40519,Bombing/Explosion,Government (Diplomatic),Unknown,-1,Explosives,-1,-1,-1
+853,1971,5,5,Spain,Western Europe,Barcelona,Barcelona,41.400635,2.150913,Bombing/Explosion,Government (General),Catalan Liberation Front (FAC),-1,Explosives,-1,-1,-1
+854,1971,5,5,United States,North America,California,Chico,39.728352,-121.837348,Bombing/Explosion,Business,Unknown,-1,Explosives,-1,-1,-1
+855,1971,5,5,United States,North America,California,Chico,39.728352,-121.837348,Facility/Infrastructure Attack,Business,Left-Wing Militants,-99,Incendiary,0,0,0
+856,1971,5,5,United States,North America,Arizona,Tempe,33.42551,-111.937419,Facility/Infrastructure Attack,Educational Institution,Left-Wing Militants,-99,Incendiary,0,0,0
+857,1971,5,5,United States,North America,Kansas,Kansas City,39.113789,-94.765358,Facility/Infrastructure Attack,Military,Left-Wing Militants,-99,Incendiary,0,0,0
+858,1971,5,5,United States,North America,California,Riverside,33.973705,-117.328064,Bombing/Explosion,Educational Institution,Student Radicals,-99,Explosives,0,0,0
+859,1971,5,6,West Germany (FRG),Western Europe,Berlin,West Berlin,52.50153,13.401851,Bombing/Explosion,Business,Unknown,-1,Explosives,-1,-1,-1
+860,1971,5,6,Venezuela,South America,Caracas,Caracas,10.482834,-66.962128,Bombing/Explosion,Military,Unknown,-1,Explosives,0,0,0
+861,1971,5,6,United States,North America,California,Cupertino,37.32236,-122.032133,Bombing/Explosion,Utilities,Left-Wing Militants,-99,Explosives,0,0,0
+862,1971,5,6,United States,North America,California,East Los Angeles,34.022442,-118.166974,Bombing/Explosion,Utilities,Chicano Liberation Front,-99,Explosives,0,0,0
+863,1971,5,6,United States,North America,California,Burlingame,37.577883,-122.34811,Facility/Infrastructure Attack,Military,Left-Wing Militants,-99,Incendiary,0,0,0
+864,1971,5,6,United States,North America,Nevada,Hawthorne,38.525255,-118.624627,Bombing/Explosion,Military,Left-Wing Militants,-99,Explosives,1,1,3
+865,1971,5,7,United States,North America,Iowa,Iowa City,41.657825,-91.526534,Bombing/Explosion,Government (General),Students for a Democratic Society,-1,Explosives,0,0,0
+866,1971,5,8,Spain,Western Europe,Gipuzcoa,Donostia-San Sebastian,43.291618,-1.977903,Hostage Taking (Kidnapping),Government (Diplomatic),Basque Fatherland and Freedom (ETA),-1,Unknown,-1,-1,-1
+867,1971,5,8,United Kingdom,Western Europe,Northern Ireland,Belfast,54.607712,-5.95621,Facility/Infrastructure Attack,Business,Protestant extremists,-1,Incendiary,1,-1,-1
+868,1971,5,8,United States,North America,California,Los Angeles,34.097866,-118.407379,Bombing/Explosion,Government (General),Chicano Liberation Front,-99,Explosives,0,0,0
+869,1971,5,9,United States,North America,California,Berkeley,37.874043,-122.280022,Bombing/Explosion,Business,Unknown,-1,Explosives,0,0,0
+870,1971,5,9,United States,North America,North Carolina,Greensboro,36.068994,-79.794704,Bombing/Explosion,Educational Institution,Regulators,-1,Explosives,0,0,0
+871,1971,5,9,United States,North America,California,Altadena,34.186531,-118.145775,Facility/Infrastructure Attack,Business,Chicano Liberation Front,-99,Incendiary,0,0,0
+872,1971,5,11,Dominican Republic,Central America & Caribbean,National,Santo Domingo,18.456792,-69.951164,Assassination,Government (General),Unknown,-1,Explosives,0,0,0
+873,1971,5,11,United States,North America,California,Los Angeles,34.097866,-118.407379,Bombing/Explosion,Business,Unknown,-1,Explosives,0,0,0
+874,1971,5,11,United States,North America,California,Los Angeles,34.097866,-118.407379,Facility/Infrastructure Attack,Business,Chicano Liberation Front,-99,Incendiary,0,0,0
+875,1971,5,11,United States,North America,California,Los Angeles,34.250636,-118.61481,Facility/Infrastructure Attack,Business,Left-Wing Militants,-99,Incendiary,0,0,0
+876,1971,5,11,United States,North America,Maryland,Baltimore,39.308342,-76.616104,Facility/Infrastructure Attack,Military,Left-Wing Militants,-99,Chemical,0,0,0
+877,1971,5,12,Bolivia,South America,Unknown,Unknown,0.0,0.0,Hostage Taking (Kidnapping),Business,Unknown,-1,Unknown,-1,-1,-1
+878,1971,5,12,United States,North America,Florida,West Palm Beach,26.714388,-80.052689,Bombing/Explosion,Private Citizens & Property,Black Nationalists,-99,Explosives,0,0,0
+879,1971,5,13,United States,North America,Illinois,Chicago,41.842602,-87.681229,Armed Assault,Police,Black Panthers,4,Firearms,0,3,3
+880,1971,5,13,Iran,Middle East & North Africa,Tehran,Tehran,35.724533,51.40519,Armed Assault,Business,Unknown,-1,Firearms,-1,-1,-1
+881,1971,5,14,Turkey,Middle East & North Africa,Ankara,Ankara,39.930771,32.76754,Bombing/Explosion,Government (Diplomatic),Turkish People's Liberation Army,-1,Explosives,0,0,0
+882,1971,5,15,Greece,Western Europe,Ionian Islands,Kalamaki,37.742578,20.896502,Armed Assault,Military,Unknown,-1,Incendiary,0,0,0
+883,1971,5,17,Turkey,Middle East & North Africa,Istanbul,Istanbul,41.106178,28.689863,Hostage Taking (Kidnapping),Government (Diplomatic),Turkish People's Liberation Army,4,Unknown,1,0,2
+884,1971,5,17,East Germany (GDR),Eastern Europe,Berlin,Berlin,52.50153,13.401851,Facility/Infrastructure Attack,Police,Unknown,-1,Incendiary,-1,-1,-1
+885,1971,5,17,Iran,Middle East & North Africa,Khuzestan,Ahvaz,31.285506,48.643416,Unknown,Transportation,Unknown,-1,Unknown,-1,-1,-1
+886,1971,5,18,East Germany (GDR),Eastern Europe,Berlin,Berlin,52.50153,13.401851,Facility/Infrastructure Attack,Police,Unknown,-1,Incendiary,-1,-1,-1
+887,1971,5,18,East Germany (GDR),Eastern Europe,Berlin,Berlin,52.50153,13.401851,Facility/Infrastructure Attack,Police,Unknown,-1,Incendiary,-1,-1,-1
+888,1971,5,18,East Germany (GDR),Eastern Europe,Berlin,Berlin,52.50153,13.401851,Facility/Infrastructure Attack,Police,Unknown,-1,Incendiary,-1,-1,-1
+889,1971,5,19,United States,North America,New York,New York City,40.697132,-73.931351,Armed Assault,Police,Black Liberation Army,-99,Firearms,0,2,2
+890,1971,5,20,United States,North America,California,San Jose,37.338475,-121.885794,Facility/Infrastructure Attack,Business,Unknown,-1,Incendiary,0,0,0
+891,1971,5,21,United States,North America,New York,New York City,40.697132,-73.931351,Assassination,Police,Black Liberation Army,-1,Firearms,2,0,4
+892,1971,5,21,United States,North America,California,San Bruno,37.625511,-122.432556,Facility/Infrastructure Attack,Journalists & Media,Left-Wing Militants,2,Incendiary,0,0,0
+893,1971,5,22,United Kingdom,Western Europe,Northern Ireland,Belfast,54.607712,-5.95621,Assassination,Military,Official Irish Republican Army (OIRA),-1,Firearms,1,-1,-1
+894,1971,5,23,Argentina,South America,Cordoba,Cordoba,-31.399301,-64.182129,Hostage Taking (Kidnapping),Business,Ejercito Revolucionaria del Pueblo (ERP) (Argentina),3,Unknown,0,0,0
+895,1971,5,23,United States,North America,California,Oakland,37.791927,-122.225906,Bombing/Explosion,Business,Unknown,-1,Explosives,0,0,0
+896,1971,5,25,United States,North America,California,Walnut Creek,37.90118,-122.061628,Bombing/Explosion,Utilities,Unknown,-1,Explosives,0,0,0
+897,1971,5,25,United Kingdom,Western Europe,Northern Ireland,Belfast,54.607712,-5.95621,Bombing/Explosion,Military,Irish Republican Army (IRA),-1,Explosives,1,-1,-1
+898,1971,5,28,United States,North America,Illinois,Bedford Park,41.77033,-87.81852,Bombing/Explosion,Police,Black Nationalists,-99,Explosives,0,0,0
+899,1971,5,29,Spain,Western Europe,Gipuzcoa,Donostia-San Sebastian,43.291618,-1.977903,Hostage Taking (Kidnapping),Government (Diplomatic),Basque Fatherland and Freedom (ETA),-1,Unknown,0,0,0
+900,1971,5,29,United States,North America,Illinois,Cairo,37.002437,-89.171826,Armed Assault,Police,Black Nationalists,-99,Firearms,0,3,3
+901,1971,6,3,United States,North America,California,Los Angeles,34.097866,-118.407379,Bombing/Explosion,Business,Unknown,-1,Explosives,0,0,0
+902,1971,6,4,Spain,Western Europe,Valencia,Miramar,38.951603,-0.138765,Bombing/Explosion,Telecommunication,Catalan Liberation Front (FAC),-1,Explosives,-1,-1,-1
+903,1971,6,5,United States,North America,New York,New York City,40.697132,-73.931351,Armed Assault,Business,Black Liberation Army,4,Firearms,1,0,2
+904,1971,6,6,Spain,Western Europe,Unknown,Unknown,0.0,0.0,Bombing/Explosion,Utilities,Catalan Liberation Front (FAC),-1,Explosives,0,0,0
+905,1971,6,6,United States,North America,California,Menlo Park,37.454697,-122.177909,Bombing/Explosion,Business,Unknown,-1,Explosives,0,0,0
+906,1971,6,10,United States,North America,California,Petaluma,38.232471,-122.644448,Bombing/Explosion,Business,Unknown,-1,Explosives,0,0,0
+907,1971,6,11,South Yemen,Middle East & North Africa,Adan,Aden,12.825647,44.846416,Bombing/Explosion,Maritime,Popular Front for the Liberation of Palestine (PFLP),-1,Explosives,0,0,0
+908,1971,6,11,United States,North America,California,Los Angeles,34.097866,-118.407379,Bombing/Explosion,Journalists & Media,Chicano Radicals,-99,Explosives,0,0,0
+909,1971,6,11,United States,North America,California,Pasadena,34.13149,-118.101567,Bombing/Explosion,Journalists & Media,Chicano Radicals,-99,Explosives,0,0,0
+910,1971,6,12,Spain,Western Europe,Madrid,Madrid,40.465595,-3.696263,Bombing/Explosion,Government (General),Catalan Liberation Front (FAC),-1,Explosives,0,0,0
+911,1971,6,13,United States,North America,California,Los Angeles,34.097866,-118.407379,Bombing/Explosion,Tourists,Unknown,-1,Explosives,0,0,0
+912,1971,6,13,United States,North America,California,Los Angeles,34.097866,-118.407379,Bombing/Explosion,Journalists & Media,Chicano Radicals,-99,Explosives,0,0,0
+913,1971,6,15,United States,North America,California,East Los Angeles,34.022425,-118.167056,Bombing/Explosion,Government (Diplomatic),Chicano Radicals,-99,Explosives,0,0,0
+914,1971,6,16,United States,North America,California,Santa Cruz,36.974025,-122.030954,Bombing/Explosion,Government (General),Chicano Radicals,-99,Explosives,0,0,0
+915,1971,6,17,United States,North America,California,Los Angeles,34.097866,-118.407379,Bombing/Explosion,Journalists & Media,Chicano Radicals,-99,Explosives,0,0,0
+916,1971,6,18,United States,North America,New York,New York City,40.697132,-73.931351,Armed Assault,Business,Black Liberation Army,-1,Firearms,0,0,0
+917,1971,6,21,United States,North America,California,San Jose,37.338475,-121.885794,Bombing/Explosion,Government (General),Unknown,-99,Explosives,0,0,0
+918,1971,6,22,United States,North America,New York,Glen Cove,40.863958,-73.630786,Bombing/Explosion,Government (Diplomatic),Jewish Defense League (JDL),-1,Explosives,0,0,0
+919,1971,6,22,United States,North America,California,Los Angeles,34.097866,-118.407379,Bombing/Explosion,Educational Institution,Chicano Liberation Front,-99,Explosives,0,0,0
+920,1971,6,22,United States,North America,California,Los Angeles,34.097866,-118.407379,Bombing/Explosion,Educational Institution,Chicano Liberation Front,-99,Explosives,0,0,0
+921,1971,6,24,United States,North America,California,Oakland,37.791927,-122.225906,Bombing/Explosion,Business,Unknown,-1,Explosives,0,0,0
+922,1971,6,24,United States,North America,California,Los Angeles,34.097866,-118.407379,Bombing/Explosion,Educational Institution,Chicano Liberation Front,-99,Explosives,0,0,0
+923,1971,6,25,United States,North America,New York,Freeport,40.658455,-73.587219,Facility/Infrastructure Attack,Government (General),Left-Wing Militants,-99,Incendiary,0,0,0
+924,1971,6,26,United States,North America,California,Los Angeles,34.097866,-118.407379,Bombing/Explosion,Business,Unknown,-1,Explosives,0,0,0
+925,1971,7,0,Spain,Western Europe,Biscay,Bilbao,43.258434,-2.921819,Bombing/Explosion,Business,Revolutionary Communist League (LCR) (Spain),-1,Explosives,0,0,0
+926,1971,7,0,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Business,Secret Cuban Government,-1,Explosives,0,0,0
+927,1971,7,1,United States,North America,California,Los Angeles,34.097866,-118.407379,Bombing/Explosion,Military,Chicano Liberation Front,1,Explosives,0,0,0
+928,1971,7,2,Spain,Western Europe,Navarre,Pamplona,42.815372,-1.653616,Bombing/Explosion,Business,GAC,-1,Explosives,-1,-1,-1
+929,1971,7,4,United States,North America,California,San Jose,37.338475,-121.885794,Bombing/Explosion,Government (General),Unknown,-1,Explosives,0,0,0
+930,1971,7,6,United States,North America,California,Montebello,34.015147,-118.122896,Facility/Infrastructure Attack,Educational Institution,Chicano Liberation Front,-99,Incendiary,0,0,0
+931,1971,7,8,United States,North America,California,Los Angeles,34.097866,-118.407379,Bombing/Explosion,Business,Chicano Liberation Front,-1,Explosives,0,0,0
+932,1971,7,8,United States,North America,California,Los Angeles,34.097866,-118.407379,Bombing/Explosion,Government (General),Chicano Liberation Front,-99,Explosives,0,0,0
+933,1971,7,9,United States,North America,Rhode Island,Providence,41.823875,-71.411994,Bombing/Explosion,Government (General),Left-Wing Militants,2,Explosives,0,0,0
+934,1971,7,9,United States,North America,California,San Diego,32.715695,-117.161719,Bombing/Explosion,Government (General),Left-Wing Militants,-99,Explosives,0,0,0
+935,1971,7,12,United Kingdom,Western Europe,Northern Ireland,Belfast,54.607712,-5.95621,Assassination,Military,Irish Republican Army (IRA),-1,Firearms,1,-1,-1
+936,1971,7,14,United Kingdom,Western Europe,Northern Ireland,Belfast,54.607712,-5.95621,Assassination,Military,Irish Republican Army (IRA),-1,Firearms,1,-1,-1
+937,1971,7,17,Spain,Western Europe,Gipuzcoa,Eibar,43.18418,-2.473289,Bombing/Explosion,Private Citizens & Property,Unknown,-1,Explosives,-1,-1,-1
+938,1971,7,18,Spain,Western Europe,Madrid,Madrid,40.465595,-3.696263,Bombing/Explosion,Transportation,Catalan Liberation Front (FAC),-1,Explosives,-1,-1,-1
+939,1971,7,18,Spain,Western Europe,Lerida,Lerida,41.614152,0.625783,Bombing/Explosion,Utilities,Catalan Liberation Front (FAC),-1,Explosives,-1,-1,-1
+940,1971,7,18,United States,North America,California,Los Angeles,34.042309,-118.141507,Bombing/Explosion,Business,Chicano Liberation Front,-99,Explosives,0,0,0
+941,1971,7,21,United States,North America,California,San Francisco,37.755363,-122.443352,Hostage Taking (Barricade Incident),Business,Black Liberation Army,0,Firearms,0,0,0
+942,1971,7,24,United States,North America,California,Santa Cruz,36.999276,-122.003482,Bombing/Explosion,Military,Left-Wing Militants,-99,Explosives,0,0,0
+943,1971,7,25,United States,North America,New York,New York City,40.697132,-73.931351,Armed Assault,Government (Diplomatic),Jewish Defense League (JDL),-1,Incendiary,0,0,0
+944,1971,7,27,Turkey,Middle East & North Africa,Izmir,Selcuk,37.950322,27.373266,Bombing/Explosion,Business,RYF,-1,Explosives,-1,-1,-1
+945,1971,7,28,Argentina,South America,Cordoba,Cordoba,-31.399301,-64.182129,Assassination,Military,Peronist Armed Forces (FAP),-1,Unknown,1,0,2
+946,1971,7,28,United States,North America,California,Ben Lomond,37.089185,-122.086756,Facility/Infrastructure Attack,Business,Left-Wing Militants,-99,Incendiary,0,0,0
+947,1971,7,29,Spain,Western Europe,Barcelona,Barcelona,41.400635,2.150913,Bombing/Explosion,Business,Revolutionary Communist League (LCR) (Spain),-1,Explosives,0,0,0
+948,1971,7,30,United States,North America,California,Beverly Hills,34.081074,-118.394081,Bombing/Explosion,Business,Jewish Defense League (JDL),-1,Explosives,0,0,0
+949,1971,8,8,United Kingdom,Western Europe,Northern Ireland,Belfast,54.607712,-5.95621,Assassination,Military,Irish Republican Army (IRA),-1,Firearms,1,-1,-1
+950,1971,8,9,United Kingdom,Western Europe,Northern Ireland,Belfast,54.607712,-5.95621,Bombing/Explosion,Business,Irish Republican Extremists,-1,Explosives,1,-1,-1
+951,1971,8,9,United Kingdom,Western Europe,Northern Ireland,Clady,54.794884,-7.537385,Assassination,Military,Irish Republican Army (IRA),-1,Firearms,1,-1,-1
+952,1971,8,10,United Kingdom,Western Europe,Northern Ireland,Londonderry,55.011562,-7.312045,Assassination,Military,Irish Republican Army (IRA),-1,Firearms,1,-1,-1
+953,1971,8,11,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Business,Jewish Defense League (JDL),-1,Explosives,0,0,0
+954,1971,8,11,United Kingdom,Western Europe,Northern Ireland,Belfast,54.607712,-5.95621,Assassination,Private Citizens & Property,Unknown,-1,Firearms,1,-1,-1
+955,1971,8,11,United Kingdom,Western Europe,Northern Ireland,Belfast,54.607712,-5.95621,Assassination,Private Citizens & Property,Irish Republican Extremists,-1,Firearms,1,-1,-1
+956,1971,8,12,United States,North America,Pennsylvania,Pittsburgh,40.438335,-79.997459,Bombing/Explosion,Business,Unknown,-1,Explosives,0,0,0
+957,1971,8,14,United Kingdom,Western Europe,Northern Ireland,Belfast,54.607712,-5.95621,Assassination,Military,Official Irish Republican Army (OIRA),-1,Firearms,1,-1,-1
+958,1971,8,15,United States,North America,Georgia,Fayetteville,33.44865,-84.454564,Unknown,Police,Black Liberation Army,-1,Unknown,1,0,2
+959,1971,8,15,United States,North America,Georgia,Atlanta,33.764496,-84.432083,Armed Assault,Business,Black Liberation Army,-1,Firearms,1,0,2
+960,1971,8,15,United States,North America,Vermont,Vernon,42.761624,-72.511495,Armed Assault,Utilities,Unknown,1,Firearms,0,1,1
+961,1971,8,18,United States,North America,Ohio,Cleveland,41.479561,-81.675461,Bombing/Explosion,Violent Political Party,Unknown,-1,Explosives,0,0,0
+962,1971,8,22,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Business,Armed Revolutionary Independence Movement (MIRA),-1,Explosives,0,0,0
+963,1971,8,22,United States,North America,New Jersey,Hoboken,40.74617,-74.032814,Facility/Infrastructure Attack,Business,Armed Revolutionary Independence Movement (MIRA),-1,Incendiary,0,0,0
+964,1971,8,22,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Business,Armed Revolutionary Independence Movement (MIRA),-1,Explosives,0,0,0
+965,1971,8,22,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Business,Armed Revolutionary Independence Movement (MIRA),-1,Explosives,0,0,0
+966,1971,8,22,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Business,Armed Revolutionary Independence Movement (MIRA),-1,Explosives,0,0,0
+967,1971,8,22,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Business,Armed Revolutionary Independence Movement (MIRA),-1,Explosives,0,0,0
+968,1971,8,22,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Business,Armed Revolutionary Independence Movement (MIRA),-1,Explosives,0,0,0
+969,1971,8,22,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Business,Armed Revolutionary Independence Movement (MIRA),-1,Explosives,0,0,0
+970,1971,8,22,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Business,Armed Revolutionary Independence Movement (MIRA),-1,Explosives,0,0,0
+971,1971,8,22,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Business,Armed Revolutionary Independence Movement (MIRA),-1,Explosives,0,0,0
+972,1971,8,23,United States,North America,New Jersey,Hoboken,40.74617,-74.032814,Facility/Infrastructure Attack,Business,Armed Revolutionary Independence Movement (MIRA),-1,Incendiary,0,0,0
+973,1971,8,23,United States,North America,New Jersey,Hoboken,40.74617,-74.032814,Facility/Infrastructure Attack,Business,Armed Revolutionary Independence Movement (MIRA),-1,Incendiary,0,0,0
+974,1971,8,23,United States,North America,New Jersey,Hoboken,40.74617,-74.032814,Facility/Infrastructure Attack,Business,Armed Revolutionary Independence Movement (MIRA),-1,Incendiary,0,0,0
+975,1971,8,23,United States,North America,New Jersey,Hoboken,40.74617,-74.032814,Facility/Infrastructure Attack,Business,Armed Revolutionary Independence Movement (MIRA),-1,Incendiary,0,0,0
+976,1971,8,23,United States,North America,New Jersey,Hoboken,40.74617,-74.032814,Facility/Infrastructure Attack,Business,Armed Revolutionary Independence Movement (MIRA),-1,Incendiary,0,0,0
+977,1971,8,23,United States,North America,New York,New York City,40.697132,-73.931351,Bombing/Explosion,Educational Institution,White extremists,-99,Explosives,0,0,0
+978,1971,8,23,United States,North America,New York,New York City,40.697132,-73.931351,Armed Assault,Business,Black Liberation Army,4,Firearms,0,0,0
+979,1971,8,24,Spain,Western Europe,Madrid,Madrid,40.465595,-3.696263,Bombing/Explosion,Airports & Aircraft,Unknown,-1,Explosives,0,0,0
+980,1971,8,24,United States,North America,Indiana,Hammond,41.583193,-87.499736,Facility/Infrastructure Attack,Government (General),Unknown,-1,Incendiary,0,0,0
+981,1971,8,24,Spain,Western Europe,Madrid,Madrid,40.465595,-3.696263,Bombing/Explosion,Airports & Aircraft,Black September,-1,Explosives,0,0,0
+982,1971,8,25,United Kingdom,Western Europe,Northern Ireland,Belfast,54.607712,-5.95621,Assassination,Military,Irish Republican Army (IRA),-1,Firearms,1,-1,-1
+983,1971,8,25,United Kingdom,Western Europe,Northern Ireland,Belfast,54.607712,-5.95621,Bombing/Explosion,Business,Irish Republican Army (IRA),-1,Explosives,1,-1,-1
+984,1971,8,27,United States,North America,California,Los Angeles,34.097866,-118.407379,Facility/Infrastructure Attack,Business,Chicano Liberation Front,-1,Incendiary,0,0,0
+985,1971,8,28,United States,North America,California,San Francisco,37.755363,-122.443352,Armed Assault,Police,Black Liberation Army,-1,Firearms,0,2,2
+986,1971,8,28,Italy,Western Europe,Lazio,Rome,41.890961,12.490069,Hijacking,Airports & Aircraft,Popular Front for the Liberation of Palestine (PFLP),-1,Explosives,0,0,0
+987,1971,8,28,United States,North America,California,San Francisco,37.755363,-122.443352,Bombing/Explosion,Police,"Weather Underground, Weathermen",-1,Explosives,-1,-1,-1
+988,1971,8,28,United States,North America,California,Sacramento,38.579065,-121.491014,Bombing/Explosion,Government (General),"Weather Underground, Weathermen",-99,Explosives,0,0,0
+989,1971,8,28,United States,North America,California,San Mateo,37.54703,-122.314834,Bombing/Explosion,Government (General),Black Nationalists,-99,Explosives,0,0,0
+990,1971,8,29,United States,North America,California,San Francisco,37.755363,-122.443352,Armed Assault,Police,Black Liberation Army,2,Firearms,1,0,2
+991,1971,8,29,United States,North America,California,Vernon,34.097866,-118.407379,Bombing/Explosion,Business,Chicano Liberation Front,-1,Explosives,0,0,0
+992,1971,8,29,United States,North America,California,San Francisco,37.755363,-122.443352,Bombing/Explosion,Business,"Weather Underground, Weathermen",-1,Explosives,0,0,0
+993,1971,8,29,United Kingdom,Western Europe,Northern Ireland,Crossmaglen,54.077313,-6.608787,Assassination,Military,Irish Republican Army (IRA),-1,Firearms,1,-1,-1
+994,1971,8,30,United Kingdom,Western Europe,Northern Ireland,Belfast,54.607712,-5.95621,Assassination,Military,Irish Republican Army (IRA),-1,Firearms,1,-1,-1
+995,1971,8,30,United States,North America,Michigan,Pontiac,42.636876,-83.288425,Bombing/Explosion,Transportation,Ku Klux Klan,5,Explosives,0,0,0
+996,1971,9,0,Cambodia,Southeast Asia,Phnom Penh,Phnom Penh,11.558831,104.917445,Assassination,Government (Diplomatic),Unknown,-1,Explosives,0,0,0
+997,1971,9,0,Cambodia,Southeast Asia,Phnom Penh,Phnom Penh,11.558831,104.917445,Assassination,Government (Diplomatic),Unknown,-1,Explosives,2,10,14
+998,1971,9,1,United States,North America,Georgia,Columbus,32.462925,-84.987629,Bombing/Explosion,Educational Institution,White extremists,-99,Explosives,0,0,0
+999,1971,9,2,United States,North America,North Carolina,Kannapolis,35.487474,-80.622003,Facility/Infrastructure Attack,Educational Institution,White extremists,3,Incendiary,0,0,0
