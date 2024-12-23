@@ -1,12 +1,12 @@
 from sqlalchemy.orm import relationship
 from app.db.postgres.connection import Base
-from sqlalchemy import Column, Integer, String, DATE, ForeignKey
+from sqlalchemy import Column, Integer, String, DATE, ForeignKey, UUID
 
 
 class TerrorAttack(Base):
     __tablename__ = 'terror_attack'
 
-    id = Column(Integer, primary_key=True, autoincrement=True)
+    id = Column(UUID, primary_key=True)
     date = Column(DATE)
     attack_type_id = Column(Integer, ForeignKey('attack_type.id'))
     city_id = Column(Integer, ForeignKey('city.id'))

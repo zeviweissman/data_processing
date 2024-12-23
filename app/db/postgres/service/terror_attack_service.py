@@ -10,6 +10,7 @@ import app.db.postgres.service.attack_type_service as attack_type_service
 
 def terror_attack_data_model_to_terror_attack_sql_model(terror_attack: TerrorAttack, cities_dict: dict, groups_dict: dict, attack_type_dict: dict) -> TerrorAttack:
     return TerrorAttack(
+        id=terror_attack.id,
         total_wounded=terror_attack.total_wounded,
         total_killed=terror_attack.total_killed,
         date=terror_attack.date,
