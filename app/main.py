@@ -1,8 +1,9 @@
 from dotenv import load_dotenv
 load_dotenv(verbose=True)
 
-from app.service.insert_terror_attacks_to_psql_service import insert_attacks_to_psql
+from app.service.insert_terror_attacks_to_psql_service import insert_data_to_psql
 from app.db.postgres.connection import  drop_database_if_exists, init_db
+from app.db.elastic_db.connection import drop_description_index, setup_description_index
 from app.db.mongo.connection import get_mongo_client
 from app.db.neo4j_db.connection import get_driver
 from app.service.insert_relations_to_neo4j_service import insert_all_relations_to_neo4j
@@ -16,4 +17,6 @@ if __name__ == '__main__':
     # insert_all_relations_to_neo4j()
     drop_database_if_exists()
     init_db()
-    insert_attacks_to_psql()
+    drop_description_index()
+    setup_description_index()
+    insert_data_to_psql()
