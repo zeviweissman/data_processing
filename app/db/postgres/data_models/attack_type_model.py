@@ -1,6 +1,5 @@
 from pydantic import BaseModel, Field
 
-
-class TargetType(BaseModel):
+class AttackTypeModel(BaseModel):
     id: int = Field(default=0)
     type: str

@@ -30,6 +30,7 @@ def create_database_if_not_exists():
 def create_tables_if_not_exists():
     Base.metadata.create_all(engine)
 
+
 def drop_tables_if_exists():
     Base.metadata.drop_all(engine)
 

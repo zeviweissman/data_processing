@@ -1,5 +1,5 @@
 from pydantic import BaseModel, Field
 
-class AttackType(BaseModel):
+class GroupModel(BaseModel):
     id: int = Field(default=0)
-    type: str
+    name: str

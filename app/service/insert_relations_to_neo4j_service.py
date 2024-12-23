@@ -1,11 +1,11 @@
-from app.pandas_.csv_repository import get_global_terrorism_as_dict
+from app.pandas_.csv_repository import extended_global_terrorism_dict
 import app.utils.neo4j_service_convert_utils as convert_utils
 import app.db.neo4j_db.repository.country_repository as country_repository
 import app.db.neo4j_db.repository.group_reopsitory as group_repository
 import app.db.neo4j_db.repository.attack_repository as attack_repository
 
 
-raw_data_dict = get_global_terrorism_as_dict()
+raw_data_dict = extended_global_terrorism_dict
 
 
 
