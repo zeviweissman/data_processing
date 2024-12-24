@@ -1,4 +1,9 @@
+from typing import List
+
 from toolz import pipe
+from app.db.postgres.connection import  drop_database_if_exists, init_db
+from app.db.elastic_db.connection import drop_description_index, setup_description_index
+from app.db.postgres.data_models import TerrorAttackModel
 from distributor.distributor import distributor
 from app.pandas_.csv_repository import merged_terrorism_dict
 import app.utils.psql_service_convert_utils as convert_utils
@@ -58,9 +63,13 @@ def get_terror_attacks():
 
 
 
-def insert_data_to_psql():
+def insert_data_to_psql_and_elastic(terror_attacks: List[TerrorAttackModel]=get_terror_attacks()):
+    drop_database_if_exists()
+    init_db()
+    drop_description_index()
+    setup_description_index()
     distributor(
-        get_terror_attacks(),
+        terror_attacks,
  insert_cities_and_countries_from_terror_attacks,
         insert_groups_from_terror_attack,
         insert_attack_types_from_terror_attacks,

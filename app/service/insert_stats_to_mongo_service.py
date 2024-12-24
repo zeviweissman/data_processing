@@ -1,5 +1,5 @@
 from toolz import pipe
-
+from app.db.mongo.connection import get_mongo_client
 from app.pandas_.csv_repository import extended_global_terrorism_dict
 import app.pandas_.stats_service as stats_service
 import app.utils.mongo_service_convert_utils as convert_utils
@@ -57,6 +57,7 @@ def insert_yearly_attack_pct_change_by_country():
 
 
 def insert_all_stats_to_mongo():
+    get_mongo_client().drop_database('terror_attacks')
     insert_active_groups_by_country()
     insert_avg_damage_by_country()
     insert_total_damage_by_attack_type()

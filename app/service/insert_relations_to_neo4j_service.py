@@ -3,6 +3,7 @@ import app.utils.neo4j_service_convert_utils as convert_utils
 import app.db.neo4j_db.repository.country_repository as country_repository
 import app.db.neo4j_db.repository.group_reopsitory as group_repository
 import app.db.neo4j_db.repository.attack_repository as attack_repository
+from app.db.neo4j_db.connection import get_driver
 
 
 raw_data_dict = extended_global_terrorism_dict
@@ -26,6 +27,7 @@ def insert_attacks():
 
 
 def insert_all_relations_to_neo4j():
+    get_driver().session().run(query="MATCH (n) detach delete n")
     insert_countries()
     insert_groups()
     insert_attacks()

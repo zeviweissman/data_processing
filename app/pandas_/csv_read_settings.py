@@ -1,5 +1,5 @@
 extended_global_terrorism_csv_read_settings = {
-            "csv_path": r"C:\Users\1\Desktop\final_project\data_processing\assets\globalterrorismdb.csv",
+            "csv_path": r"C:\Users\1\Desktop\final_project\data_processing\assets\globalterrorismdb_big.csv",
             "columns_to_read": ["summary","iyear", "imonth", "iday", "region_txt", "country_txt", "provstate", "city", "latitude", "longitude", "attacktype1_txt", "targtype1_txt","gname", "nperps", "weaptype1_txt", "nkill", "nwound"],
             "dtypes":
                 {
@@ -61,7 +61,7 @@ extended_global_terrorism_csv_read_settings = {
 
 
 global_terrorism_csv_read_settings = {
-"csv_path": r"C:\Users\1\Desktop\final_project\data_processing\assets\terrorism.csv",
+"csv_path": r"C:\Users\1\Desktop\final_project\data_processing\assets\terrorism_big.csv",
             "columns_to_read": ["Date", "City", "Country", "Perpetrator", "Weapon", "Injuries", "Fatalities", "Description"],
             "dtypes":
                 {
