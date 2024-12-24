@@ -16,8 +16,8 @@ def terror_attack_dict_to_terror_attack_model(terror_attack: dict) -> TerrorAtta
         group=GroupModel(
           name=terror_attack['perpetrator']
         ),
-        total_wounded=terror_attack.get('total wounded') or terror_attack.get('total_wounded'),
-        total_killed=terror_attack.get('total killed') or terror_attack.get('total_killed'),
+        total_wounded=terror_attack.get('total wounded') or terror_attack.get('total_wounded') or 0,
+        total_killed=terror_attack.get('total killed') or terror_attack.get('total_killed') or 0,
         date=terror_attack['date'] or datetime.now().date(),
         description=[terror_attack['description']]
     )

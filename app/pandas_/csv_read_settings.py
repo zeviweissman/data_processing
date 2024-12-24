@@ -3,9 +3,9 @@ extended_global_terrorism_csv_read_settings = {
             "columns_to_read": ["summary","iyear", "imonth", "iday", "region_txt", "country_txt", "provstate", "city", "latitude", "longitude", "attacktype1_txt", "targtype1_txt","gname", "nperps", "weaptype1_txt", "nkill", "nwound"],
             "dtypes":
                 {
-                    "iyear": "Int32",
-                    "imonth": "Int32",
-                    "iday": "Int32",
+                    "iyear": "Float64",
+                    "imonth": "Float64",
+                    "iday": "Float64",
                     "region_txt": str,
                     "country_txt": str,
                     "provstate": str,
@@ -17,12 +17,12 @@ extended_global_terrorism_csv_read_settings = {
                     "gname": str,
                     "gname2": str,
                     "gname3": str,
-                    "nperps": "Int32",
+                    "nperps": "Float64",
                     "weaptype1_txt": str,
                     "weaptype2_txt": str,
                     "weaptype3_txt": str,
-                    "nkill": "Int32",
-                    "nwound": "Int32",
+                    "nkill": "Float64",
+                    "nwound": "Float64",
                     "summary": str
                 },
             "columns_to_rename":
@@ -70,8 +70,8 @@ global_terrorism_csv_read_settings = {
                     "Country": str,
                     "Perpetrator": str,
                     "Weapon": str,
-                    "Injuries": "Int32",
-                    "Fatalities": "Int32",
+                    "Injuries": "Float64",
+                    "Fatalities": "Float64",
                     "Description": str
                 },
             "columns_to_rename":
@@ -91,6 +91,7 @@ global_terrorism_csv_read_settings = {
         "attack_type": "Unknown",
         "total_killed": -1,
         "total_wounded": -1,
+        "description": ""
     }
         }
 

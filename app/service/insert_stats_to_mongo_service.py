@@ -1,6 +1,6 @@
 from toolz import pipe
 from app.db.mongo.connection import get_mongo_client
-from app.pandas_.csv_repository import extended_global_terrorism_dict
+from app.pandas_.csv_repository import extended_global_terrorism_df
 import app.pandas_.stats_service as stats_service
 import app.utils.mongo_service_convert_utils as convert_utils
 import app.db.mongo.repository.active_groups_by_country_repository as active_groups_by_country_repository
@@ -9,7 +9,7 @@ import app.db.mongo.repository.total_damage_by_group_repository as total_damage_
 import app.db.mongo.repository.total_damage_by_attack_type_repository as total_damage_by_attack_repository
 import app.db.mongo.repository.yearly_attack_pct_change_by_country_repository as yearly_attack_pct_change_by_country_repository
 
-raw_data_df = extended_global_terrorism_dict
+raw_data_df = extended_global_terrorism_df
 
 
 def insert_active_groups_by_country():

@@ -20,3 +20,5 @@ def insert_cities(cities: set):
 
 def get_dict_of_key_city_value_city_id():
     return {city.name : city.id for city in city_repository.get_cities()}
+
+

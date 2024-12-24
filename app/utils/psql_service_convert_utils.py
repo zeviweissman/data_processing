@@ -1,8 +1,4 @@
-from datetime import date, datetime
-from typing import Optional, List, Set
-
-from toolz import pipe
-
+from typing import  List, Set
 from app.db.postgres.data_models import TerrorAttackModel, CityModel, CountryModel, AttackTypeModel, GroupModel
 
 
@@ -22,7 +18,7 @@ def terror_attack_dict_to_terror_attack_model(terror_attack: dict) -> TerrorAtta
         group=GroupModel(
           name=terror_attack['group_name']
         ),
-        total_wounded=terror_attack['total_wounded'],
+        total_wounded=int(terror_attack['total_wounded']),
         total_killed=terror_attack['total_killed'],
         date=terror_attack['date'],
         description=terror_attack['description']
